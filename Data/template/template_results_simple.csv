@@ -1,0 +1,863 @@
+﻿id,template
+1,H ReceiveVsync dataCount <*> now <*> expectedEnd <*> vsyncId <*> fd <*>
+2,H GetMarginFromHistory avgFrameTime is <*> margin is <*> <*> is <*> <*> is <*>
+3,H FrameS BeginScene rtg <*> <*> <*> ret <*>
+4,H RSMainThread DoComposition <*>
+5,H RSMainThread ProcessCommandUni <*> <*>
+6,H Animate
+7,H ProcessHgmFrameRate pendingRefreshRate <*>
+8,H RSUniRender QuickPrepareDisplayRenderNode <*>
+9,H UpdateUifirstNodes Id <*> name <*> FLId <*> Ani <*> Support <*> isUiFirstOn <*>
+10,H IsLeashWindowCache needFilterSCB <*>
+11,H PrevalidateHwcNode hwcLayer <*> uifirstLayer <*>
+12,H RSFilterDrawable MarkNeedClearFilterCache nodeId <*> forceUseCache <*> forceClearCache <*> hashChanged <*> regionChanged <*> belowDirty <*> lastCacheType <*> cacheUpdateInterval <*> canSkip <*> isLargeArea <*> filterType <*> pendingPurge <*> forceClearCacheWithLastFrame <*> rotationChanged <*>
+13,H HDI DISP GetMetadata
+14,H HDR <*> in Unirender <*> brightnessRatio <*>
+15,H PostAndWait parallel type <*>
+16,H FrameS EndFrameFreq rtg <*> ret <*>
+17,H ReleaseResource
+18,H ReleaseNodeMemory
+19,H HandleDelayDestroyQueue
+20,H VSyncReceiver period <*> timeStamp <*> isThreadShared <*>
+21,H RSMainThread ProcessCommandUni <*> <*> <*> <*>
+22,H Animate nodeSize totalAnimationSize is <*> <*>
+23,H rs RequestNextVSync
+24,H IsAnimate <*> hardwareTaskNum <*> NotRenderNum <*>
+25,H RSMainThread ProcessCommandUni
+26,H RSMainThread SendCommand to pid <*> cmdIndex <*> cmdCount <*>
+27,H RSMainThread TimerExpiredCallback Run idleTimerExpiredFlag False forceUpdateFlag True
+28,H DVSyncIsOn <*>
+29,H RSSurfaceRenderNode SetIsOnTheTree node name ArkTSCardNode id <*> on tree <*> nodeType <*>
+30,H DisableUifirstNode
+31,H need purgeUnlockedResources this SurfaceNode isn t on the tree Id <*> Name <*>
+32,H RSUniRender PrepareRootRenderNode node <*> pid <*> subTreeDirty <*>
+33,H handle set task min util tid is <*> uclamp is <*>
+34,H RSMainThread UniRender ForceUpdateUniRender
+35,H FrameS hardware <*>
+36,H ReleaseNodeMemory <*>
+37,H AppSpawnExecuteClearEnvHook
+38,H AppSpawnExecuteSpawningHook
+39,H SetAppSandboxProperty
+40,H AppSpawnExecutePreReplyHook
+41,H NotifyResToParent
+42,H AppSpawnExecutePostReplyHook
+43,H static void OHOS AppExecFwk MainThread Start
+44,H void OHOS AppExecFwk MainThread <*> const std shared ptr<EventRunner> &
+45,H void OHOS AppExecFwk MainThread <*>
+46,H bool OHOS AppExecFwk MainThread ConnectToAppMgr
+47,H sptr<OHOS AppExecFwk <*> OHOS AppExecFwk BundleMgrHelper <*>
+48,H void OHOS AppExecFwk MainThread HandleLaunchApplication const OHOS AppExecFwk AppLaunchData & const OHOS AppExecFwk Configuration &
+49,H bool OHOS AppExecFwk MainThread InitCreate std shared ptr<ContextDeal> & OHOS AppExecFwk ApplicationInfo & OHOS AppExecFwk ProcessInfo &
+50,H OHOS ErrCode OHOS AppExecFwk BundleMgrHelper GetBundleInfoForSelf <*> t OHOS AppExecFwk BundleInfo &
+51,H virtual OHOS ErrCode OHOS AppExecFwk BundleMgrProxy GetBundleInfoForSelf <*> t OHOS AppExecFwk BundleInfo &
+52,H OHOS ErrCode OHOS AppExecFwk BundleMgrHelper GetBaseSharedBundleInfos const std string & std vector<BaseSharedBundleInfo> & OHOS AppExecFwk GetDependentBundleInfoFlag
+53,H virtual OHOS ErrCode OHOS AppExecFwk BundleMgrProxy GetBaseSharedBundleInfos const std string & std vector<BaseSharedBundleInfo> & OHOS AppExecFwk GetDependentBundleInfoFlag
+54,H static std unique ptr<JsRuntime> OHOS AbilityRuntime JsRuntime Create const OHOS AbilityRuntime Runtime Options &
+55,H bool OHOS AbilityRuntime JsRuntime Initialize const OHOS AbilityRuntime Runtime Options &
+56,H panda JSNApi PostFork
+57,H dm init
+58,H GetExtractor find from cache
+59,H virtual bool OHOS AbilityBase Extractor Init
+60,H realpath file
+61,H open file
+62,H bool OHOS AbilityBase ZipFile ParseAllEntries
+63,H GetExtractor store
+64,H bool OHOS AbilityBase Extractor ExtractToBufByName const std string & std unique ptr<<*> t > & size t &
+65,H submit <*>
+66,H void OHOS AppExecFwk MainThread LoadAllExtensions NativeEngine &
+67,H virtual sptr<OHOS AppExecFwk IOverlayManager> OHOS AppExecFwk BundleMgrProxy GetOverlayManagerProxy
+68,H virtual OHOS ErrCode OHOS AppExecFwk OverlayManagerProxy GetTargetOverlayModuleInfo const std string & std vector<OverlayModuleInfo> & <*> t
+69,H bool OHOS AppExecFwk MainThread InitResourceManager std shared ptr<Global Resource ResourceManager> & const AppExecFwk HapModuleInfo & const std string & bool const OHOS AppExecFwk Configuration &
+70,H virtual bool OHOS Global Resource ResourceManagerImpl AddResource const char * const <*> t &
+71,H bool OHOS Global Resource GetIndexData const char * std unique ptr<<*> t > & size t &
+72,H static <*> t OHOS Global Resource HapParser ParseResHex const char * const size t OHOS Global Resource ResDesc & const std shared ptr<ResConfigImpl> const <*> t &
+73,H bool OHOS Global Resource HapResource Init std shared ptr<ResConfigImpl> &
+74,H SchedWithUtil uti is <*>
+75,H RSSurfaceRenderNode SetIsOnTheTree node name <*> id <*> on tree <*> nodeType <*>
+76,H RSRenderNodeDrawable Ptr RSSurfaceRenderNodeDrawable OnGenerate
+77,H RSSurfaceRenderNode SetIsOnTheTree node name WindowScene <*> id <*> on tree <*> nodeType <*>
+78,H UpdateUifirstNodes Id <*> name WindowScene <*> FLId <*> Ani <*> Support <*> isUiFirstOn <*>
+79,H IsLeashWindowCache toSubThread <*> IsScale <*> filter <*> rotate <*> captured <*>
+80,H nID <*> nType <*> support <*> canvasNodeNum <*> mainwindowNum <*>
+81,H uifirst node support <*> canvasNodeNum <*> mainwindowNum <*> startingWindow <*>
+82,H virtual OHOS Global Resource RState OHOS Global Resource ResourceManagerImpl UpdateResConfig OHOS Global Resource ResConfig & bool
+83,H void OHOS AppExecFwk MainThread HandleLaunchAbility const std shared ptr<AbilityLocalRecord> & ##com.alipay.mobile.client
+84,H std shared ptr<AbilityRuntime Context> OHOS AppExecFwk OHOSApplication AddAbilityStage const std shared ptr<AbilityLocalRecord> & const std function<void const std shared ptr<AbilityRuntime Context> & > & bool &
+85,H OHOS ErrCode OHOS AbilityRuntime ContextImpl GetBundleManager
+86,H bool OHOS AppExecFwk BundleMgrHelper GetHapModuleInfo const OHOS AppExecFwk AbilityInfo & OHOS AppExecFwk HapModuleInfo &
+87,H virtual bool OHOS AppExecFwk BundleMgrProxy GetHapModuleInfo const OHOS AppExecFwk AbilityInfo & OHOS AppExecFwk HapModuleInfo &
+88,H static std shared ptr<AbilityStage> OHOS AbilityRuntime AbilityStage Create const std unique ptr<Runtime> & const AppExecFwk HapModuleInfo &
+89,H std unique ptr<NativeReference> OHOS AbilityRuntime JsRuntime LoadModule const std string & const std string & const std string & bool bool
+90,H napi value OHOS AbilityRuntime JsRuntime LoadJsModule const std string & const std string &
+91,H bool OHOS AbilityRuntime JsRuntime RunScript const std string & const std string & bool
+92,H JSPandaFileExecutor ExecuteModuleBufferSecure <*>
+93,H SourceTextModule Instantiate
+94,H SourceTextModule Evaluate
+95,H /system/<*>/module/arkui/libobserver.z.so
+96,H NAPI module init name <*>
+97,H /system/<*>/module/bundle/libbundlemanager.z.so
+98,H libutdid native.so
+99,H /system/<*>/module/util/liblinkedlist.z.so
+100,H JSPandaFileExecutor ExecuteFromBuffer <*>
+101,H liblogging.so
+102,H loggingInit
+103,H /system/<*>/module/hms/core/libaaid.z.so
+104,H /system/<*>/module/hms/core/libaaid napi.z.so
+105,H /system/<*>/module/net/libconnection.z.so
+106,H /system/<*>/module/file/libfs.z.so
+107,H /system/<*>/module/app/ability/liberrormanager.z.so
+108,H /system/<*>/module/util/libstack.z.so
+109,H /system/<*>/module/util/libtreemap.z.so
+110,H libframework api.so
+111,H NAPI module init name <*> <*>
+112,H /system/<*>/module/libpromptaction.z.so
+113,H /system/<*>/module/libtaskpool.z.so
+114,H /system/<*>/module/resourceschedule/libbackgroundtaskmanager.z.so
+115,H /system/<*>/module/resourceschedule/libbackgroundtaskmanager napi.z.so
+116,H Napi <*> name <*> traceid <*>
+117,H onSubmitUV
+118,H Sync GetDefaultDisplay
+119,H static void OHOS AppExecFwk AbilityThread AbilityThreadMain const std shared ptr<OHOSApplication> & const std shared ptr<AbilityLocalRecord> & const std shared ptr<EventRunner> & const std shared ptr<AbilityRuntime Context> &
+120,H virtual void OHOS AbilityRuntime UIAbilityThread Attach const std shared ptr<AppExecFwk OHOSApplication> & const std shared ptr<AppExecFwk AbilityLocalRecord> & const std shared ptr<AppExecFwk EventRunner> & const std shared ptr<Context> &
+121,H void OHOS AbilityRuntime UIAbilityImpl Init const std shared ptr<AppExecFwk OHOSApplication> & const std shared ptr<AppExecFwk AbilityLocalRecord> & std shared ptr<UIAbility> & std shared ptr<AppExecFwk AbilityHandler> & const sptr<OHOS IRemoteObject> &
+122,H virtual void OHOS AbilityRuntime JsUIAbility Init std shared ptr<AppExecFwk AbilityLocalRecord> const std shared ptr<OHOSApplication> std shared ptr<AbilityHandler> & const sptr<OHOS IRemoteObject> &
+123,H virtual void OHOS AbilityRuntime UIAbility Init std shared ptr<AppExecFwk AbilityLocalRecord> const std shared ptr<AppExecFwk OHOSApplication> std shared ptr<AppExecFwk AbilityHandler> & const sptr<OHOS IRemoteObject> &
+124,H libconfigservice.so
+125,H libantuser context.so
+126,H /system/<*>/module/telephony/libdata.z.so
+127,H JSPandaFileExecutor ExecuteFromAbcFile <*>
+128,H libnetsdkextdepend.so
+129,H /system/<*>/module/net/libnetworksecurity.z.so
+130,H /system/<*>/module/net/libnetworksecurity napi.z.so
+131,H libblueshield.so
+132,H /system/<*>/module/net/libhttp.z.so
+133,H /system/<*>/module/libwifimanager.z.so
+134,H /system/<*>/module/file/libstatvfs.z.so
+135,H /system/<*>/module/libdistributeddevicemanager.z.so
+136,H /system/<*>/module/hms/security/libsafetydetect.z.so
+137,H /system/<*>/module/hms/security/libsafetydetect napi.z.so
+138,H /system/<*>/module/hms/security/libtrustedappservice.z.so
+139,H /system/<*>/module/hms/security/libtrustedappservice napi.z.so
+140,H /system/<*>/module/hms/security/libbusinessriskintelligentdetection.z.so
+141,H /system/<*>/module/hms/security/libbusinessriskintelligentdetection napi.z.so
+142,H /system/<*>/module/telephony/libcall.z.so
+143,H /system/<*>/module/security/libasset.z.so
+144,H /system/<*>/module/security/libasset napi.z.so
+145,H /system/<*>/module/arkui/libnode.z.so
+146,H /system/<*>/module/arkui/libnode napi.z.so
+147,H /system/<*>/module/web/libwebview.z.so
+148,H /system/<*>/module/web/libwebview napi.z.so
+149,H /system/<*>/module/file/libphotoaccesshelper.z.so
+150,H /system/<*>/module/multimedia/libcamerapicker.z.so
+151,H /system/<*>/module/multimedia/libcamerapicker napi.z.so
+152,H libantuser platform.so
+153,H /system/<*>/module/graphics/libdisplaysync.z.so
+154,H /system/<*>/module/app/ability/libabilitylifecyclecallback.z.so
+155,H /system/<*>/module/graphics/libdrawing.z.so
+156,H /system/<*>/module/graphics/libdrawing napi.z.so
+157,H /system/<*>/module/libmediaquery.z.so
+158,H /system/<*>/module/libfont.z.so
+159,H libantui.so
+160,H /system/<*>/module/hms/core/account/liblogincomponent.z.so
+161,H /system/<*>/module/core/account/liblogincomponent.z.so
+162,H /system/<*>/module/core/account/liblogincomponent napi.z.so
+163,H /system/<*>/module/libprompt.z.so
+164,H libalipay rdb.so
+165,H /system/<*>/module/hms/security/libifaa.z.so
+166,H /system/<*>/module/hms/security/libifaa napi.z.so
+167,H /system/<*>/module/app/ability/libabilityconstant.z.so
+168,H sptr<OHOS AAFwk IAbilityManager> OHOS AAFwk AbilityManagerClient GetAbilityManager
+169,H OHOS ErrCode OHOS AAFwk AbilityManagerClient Connect
+170,H OHOS ErrCode OHOS AAFwk AbilityManagerProxy SendRequest OHOS AAFwk AbilityManagerInterfaceCode OHOS MessageParcel & OHOS MessageParcel & OHOS MessageOption &
+171,H Napi <*> name JsApplicationStateChangeCallback CallJsMethod <*> traceid <*>
+172,H void OHOS AbilityRuntime UIAbilityThread HandleAbilityTransaction const OHOS AbilityRuntime Want & const OHOS AbilityRuntime LifeCycleStateInfo & sptr<AAFwk SessionInfo> ##EntryAbility
+173,H void OHOS AbilityRuntime UIAbilityImpl HandleAbilityTransaction const AAFwk Want & const AAFwk LifeCycleStateInfo & sptr<AAFwk SessionInfo>
+174,H void OHOS AbilityRuntime UIAbilityImpl Start const AAFwk Want & sptr<AAFwk SessionInfo>
+175,H virtual void OHOS AbilityRuntime JsUIAbility OnStart const OHOS AbilityRuntime Want & sptr<AAFwk SessionInfo>
+176,H virtual void OHOS AbilityRuntime UIAbility OnStart const AAFwk Want & sptr<AAFwk SessionInfo>
+177,H CallObjectMethod onCreate
+178,H bool OHOS AbilityRuntime UIAbilityImpl AbilityTransaction const AAFwk Want & const AAFwk LifeCycleStateInfo &
+179,H void OHOS AbilityRuntime UIAbilityImpl Foreground const AAFwk Want &
+180,H virtual void OHOS AbilityRuntime JsUIAbility <*> const OHOS AbilityRuntime Want &
+181,H virtual void OHOS AbilityRuntime UIAbility OnForeground const AAFwk Want &
+182,H void OHOS AbilityRuntime JsUIAbility AbilityContinuationOrRecover const OHOS AbilityRuntime Want &
+183,H virtual void OHOS AbilityRuntime <*> <*>
+184,H std unique ptr<NativeReference> OHOS AbilityRuntime JsUIAbility CreateAppWindowStage
+185,H onWindowStageCreate
+186,H CallObjectMethod onWindowStageCreate
+187,H virtual void OHOS AbilityRuntime UIAbilityImpl WindowLifeCycleImpl <*>
+188,H static void OHOS AAFwk EventReport SendAbilityEvent const OHOS AAFwk EventName & HiSysEventType const OHOS AAFwk EventInfo &
+189,H CallObjectMethod onForeground
+190,H libportal.so
+191,H bool OHOS AbilityRuntime JsModuleReader operator const std string & <*> t ** size t * std string & const
+192,H OHOS ErrCode OHOS AppExecFwk BundleMgrHelper GetDependentBundleInfo const std string & OHOS AppExecFwk BundleInfo & OHOS AppExecFwk GetDependentBundleInfoFlag
+193,H virtual OHOS ErrCode OHOS AppExecFwk BundleMgrProxy GetDependentBundleInfo const std string & OHOS AppExecFwk BundleInfo & OHOS AppExecFwk GetDependentBundleInfoFlag
+194,H /system/<*>/module/arkts/libutils.z.so
+195,H /system/<*>/module/arkts/libcollections.z.so
+196,H /system/<*>/module/events/libemitter.z.so
+197,H libantanimation.so
+198,H uifirst NotifyUIStartingWindow id <*> wait <*>
+199,H libmpaas decodenapi.so
+200,H /system/<*>/module/app/ability/libwantagent.z.so
+201,H /system/<*>/module/app/ability/libwantagent napi.z.so
+202,H /system/<*>/module/util/libdeque.z.so
+203,H /system/<*>/module/libconfiguration.z.so
+204,H libxriver.so
+205,H libantuser integration.so
+206,H libsgcorecptwrapper.so
+207,H libmpaas flowcustoms.so
+208,H libucc.so
+209,H libut analytics sdk.so
+210,H NAPI module init name default/ut analytics sdk
+211,H libaccountauth.so
+212,H /system/<*>/module/data/libuniformtypedescriptor.z.so
+213,H /system/<*>/module/data/libuniformtypedescriptor napi.z.so
+214,H /system/<*>/module/hms/security/libdevicecertificate.z.so
+215,H /system/<*>/module/hms/security/libdevicecertificate napi.z.so
+216,H /system/<*>/module/hms/core/appgalleryservice/libproductviewmanager.z.so
+217,H /system/<*>/module/hms/core/appgalleryservice/libproductviewmanager napi.z.so
+218,H /system/<*>/module/app/ability/libwantconstant.z.so
+219,H /system/<*>/module/app/ability/libwantconstant napi.z.so
+220,H libcashierPlatform.so
+221,H /system/<*>/module/hms/core/scan/libscancore.z.so
+222,H /system/<*>/module/hms/core/scan/libscancore napi.z.so
+223,H /system/<*>/module/hms/core/scan/libgeneratebarcode.z.so
+224,H /system/<*>/module/hms/core/scan/libgeneratebarcode napi.z.so
+225,H /system/<*>/module/hms/core/scan/libscanencode.z.so
+226,H /system/<*>/module/hms/core/scan/libscanencode napi.z.so
+227,H /system/<*>/module/hms/core/scan/libscanha.z.so
+228,H /system/<*>/module/hms/core/scan/libscanha napi.z.so
+229,H libcashierHarmonyAlipay.so
+230,H libmpaas teclability interface.so
+231,H NAPI module init name default/mpaas <*> <*>
+232,H /system/<*>/module/hms/collaboration/librcp.z.so
+233,H /system/<*>/module/collaboration/librcp.z.so
+234,H /system/<*>/module/collaboration/librcp napi.z.so
+235,H static OHOS Global Resource RState OHOS Global Resource HapParser GetRawFileList const std string & const std string & std vector<std string> &
+236,H static OHOS Global Resource RState OHOS Global Resource HapParser ReadRawFileFromHap const std string & const std string & size t & std unique ptr<<*> t > &
+237,H OHOS Global Resource RState OHOS Global Resource HapManager GetMediaDataFromHap const std shared ptr<HapResource ValueUnderQualifierDir> size t & std unique ptr<<*> t > &
+238,H ContentMainRunnerImpl Initialize
+239,H SetupSandbox
+240,H BrowserTaskExecutor CreateIOThread
+241,H BrowserMainRunnerImpl Initialize
+242,H BrowserMainLoop Init
+243,H BrowserMainLoop EarlyInitialization
+244,H BrowserMainLoop InitializeToolkit
+245,H OzonePlatform Initialize platform headless
+246,H BrowserMainLoop CreateMainMessageLoop PreCreateMainMessageLoop
+247,H BrowserMainLoop CreateMainMessageLoop
+248,H BrowserMainLoop PostCreateMainMessageLoop
+249,H BrowserMainLoop Subsystem <*>
+250,H BrowserMainLoop CreateStartupTasks
+251,H BrowserMainLoop PreCreateThreads
+252,H CreateClientNativePixmapFactoryOzone platform headless
+253,H PrefServiceSyncableFactory CreateSyncable
+254,H BrowserMainLoop PluginService
+255,H BrowserMainLoop CreateThreads
+256,H BrowserMainLoop PostCreateThreads
+257,H BrowserMainLoop PostCreateThreadsImpl
+258,H GpuHostImpl EstablishGpuChannel
+259,H GpuHostImpl ConnectFrameSinkManager
+260,H PostCreateThreads Subsystem <*>
+261,H BrowserMainLoop PostCreateThreads <*>
+262,H BrowserMainLoop PreMainMessageLoopRun
+263,H BrowserContextDependencyManager RegisterProfilePrefsForServices
+264,H BrowserContextDependencyManager DoCreateBrowserContextServices
+265,H StorageFrontend Init
+266,H ExtensionPrefs InitPrefStore
+267,H ExtensionPrefs InitExtensionControlledPrefs
+268,H extensions InstallVerifier Init
+269,H ExtensionManagementFactory BuildServiceInstanceFor
+270,H ExtensionManagement ExtensionManagement ctor
+271,H ExtensionManagement Refresh
+272,H VisitedLinkWriter Init
+273,H ExtensionService ExtensionService ctor
+274,H ExternalProviderImpl CreateExternalProviders
+275,H extensions FeatureProvider FeatureProviderStatic
+276,H CefExtensionSystem Shared Init
+277,H ExtensionService Init
+278,H ComponentLoader LoadAll
+279,H InstalledLoader LoadAllExtensions
+280,H ExtensionService EnabledReloadableExtensions
+281,H ExtensionService MaybeFinishShutdownDelayed
+282,H ExtensionService SetReadyAndNotifyListeners
+283,H ExtensionService CheckForExternalUpdates
+284,H SafeBrowsingVerdictHandler Init
+285,H HostContentSettingsMap HostContentSettingsMap
+286,H init
+287,H CreateInProcessNetworkService
+288,H ProfileNetworkContextService ctor
+289,H ProfileNetworkContextService ConfigureNetworkContextParamsInternal
+290,H ProxyConfigMonitor
+291,H CreateNetworkContextInNetworkService
+292,H CreateNetworkContextInternal
+293,H ValueSerializer WriteValue
+294,H Napi queue name <*> <*> traceid <*>
+295,H /system/<*>/module/useriam/libuserauth.z.so
+296,H libcardsdk.so
+297,H /system/<*>/module/application/libappmanager.z.so
+298,H /system/<*>/module/application/libappmanager napi.z.so
+299,H /system/<*>/module/hms/core/appgalleryservice/libupdatemanager.z.so
+300,H /system/<*>/module/hms/core/appgalleryservice/libupdatemanager napi.z.so
+301,H /system/<*>/module/libeffectkit.z.so
+302,H /system/<*>/module/arkui/libinspector.z.so
+303,H /system/<*>/module/arkui/libcomponentutils.z.so
+304,H /system/<*>/module/arkui/libdrawabledescriptor.z.so
+305,H libantcube.so
+306,H libmpaas fulllinktracker.so
+307,H libmpaas common teclabilities.so
+308,H libnetworkkotlinadapter.so
+309,H Deserialize dataSize <*>
+310,H Napi complete name <*> <*> traceid <*>
+311,H UI Initialize <*>
+312,H GetLocaleFallback
+313,H Initialize
+314,H MarshRSTransactionData cmdCount <*> transactionFlag <*> <*>
+315,H JsiDeclarativeEngine Initialize
+316,H JsiDeclarativeEngineInstance InitJsEnv
+317,H SendCommands
+318,H SetRootSize <*> <*> <*>
+319,H InitializeCallback
+320,H OHOS LoadThemes
+321,H GetAsMapping
+322,H RSMainThread ProcessCommandUni <*> <*> <*> <*> <*> <*>
+323,H ViewChangeCallback <*> <*>
+324,H FlushDirtyNodeUpdate
+325,H SafeAreaManager <*> SafeAreaInsets left start <*> end <*> top start <*> end <*> right start <*> end <*> bottom start <*> end <*>
+326,H UITaskScheduler FlushTask
+327,H FlushLayoutTask
+328,H FlushMessages
+329,H SetAppStartStatus
+330,H HandleVisibleAreaChangeEvent
+331,H DensityChangeCallback <*>
+332,H /system/<*>/module/hms/core/push/libpushservice.z.so
+333,H /system/<*>/module/hms/core/push/libpushservice napi.z.so
+334,H /system/<*>/module/core/push/libpushservice.z.so
+335,H /system/<*>/module/core/push/libpushservice napi.z.so
+336,H PageRouterManager RunPage
+337,H load page pages/Index id <*>
+338,H PageRouterManager CreatePage
+339,H JsiDeclarativeEngine LoadPageSource
+340,H JsiDeclarativeEngine LoadJsWithModule Execute Page code pages/Index.abc
+341,H <*> Main Page entry/src/main/ets/pages/Index
+342,H CustomNode OnAppear
+343,H aboutToAppear
+344,H CustomNode BuildItem Index self <*> parent <*>
+345,H CustomNode DidBuild
+346,H CustomNode BuildItem <*> self <*> parent <*>
+347,H ForEachNode Update Id <*> preIds <*> newIds <*> tempOldIdsSet <*> additionalChildComps <*>
+348,H CustomNode BuildItem TabBar self <*> parent <*>
+349,H CustomNode BuildItem AUTabBar self <*> parent <*>
+350,H CustomNode BuildItem UEPComponent self <*> parent <*>
+351,H CustomNode BuildItem TorchNode self <*> parent <*>
+352,H CreateImageObj pixmapID <*> modifyID details <*> <*> <*> <*> <*> <*>
+353,H GetImageData pixmapID <*> modifyID details <*> <*> <*> <*>
+354,H onDidBuild
+355,H CustomNode BuildItem BarItem self <*> parent <*>
+356,H /system/<*>/module/arkui/libshape.z.so
+357,H /system/<*>/module/arkui/libshape napi.z.so
+358,H CustomNode BuildItem HomeTabBarItem self <*> parent <*>
+359,H CustomNode BuildItem TLTabBarItem self <*> parent <*>
+360,H CustomNode BuildItem AUTabBarItem self <*> parent <*>
+361,H CustomNode BuildItem TabBarImage self <*> parent <*>
+362,H CustomNode BuildItem AUIcon self <*> parent <*>
+363,H CustomNode BuildItem AUCustomIcon self <*> parent <*>
+364,H CustomNode BuildItem BadgeLottieContent self <*> parent <*>
+365,H CustomNode BuildItem HomeUpIcon self <*> parent <*>
+366,H CreateImageObj resource ///tab icon home alipay.webp <*> <*>
+367,H GetImageData resource ///tab icon home <*>
+368,H GetCacheImageData key <*>
+369,H virtual OHOS Global Resource RState OHOS Global Resource ResourceManagerImpl UpdateOverrideResConfig OHOS Global Resource ResConfig &
+370,H CreateImageObj resource ///tab icon home arrow.webp <*> <*>
+371,H onPageShow
+372,H ExecuteJS
+373,H CustomNodeUpdate Index
+374,H JSView ExecuteRerender
+375,H CustomNodeUpdate TabLauncherPage
+376,H OnVsyncCallback <*> <*>
+377,H OnVsyncEvent now <*>
+378,H UIVsyncTask timestamp <*> vsyncID <*> instanceID <*>
+379,H DispatchDisplaySync
+380,H FlushAnimation
+381,H RunningCustomAnimation num <*> time <*>
+382,H CustomNodeUpdate HomeTabBarItem
+383,H FFBKdep <*>
+384,H CreateTaskMeasure <*> self <*> parent <*> layoutConstraint minSize <*> x <*> maxSize <*> x <*> percentReference <*> x <*> parentIdealSize <*> x NA selfIdealSize NA x NA
+385,H measure swiper startMainPos <*>
+386,H CustomNode BuildItem HomeTabContent self <*> parent <*>
+387,H /system/<*>/module/bluetooth/libaccess.z.so
+388,H /system/<*>/module/arkui/libmodifier.z.so
+389,H /system/<*>/module/arkui/libmodifier napi.z.so
+390,H /system/<*>/module/telephony/libobserver.z.so
+391,H <*>.so
+392,H libmfsurfacemanager.so
+393,H /system/<*>/module/libconvertxml.z.so
+394,H /system/<*>/module/hms/core/map/libnavi.z.so
+395,H /system/<*>/module/hms/core/map/libnavi napi.z.so
+396,H /system/<*>/module/hms/core/map/libscenemap.z.so
+397,H /system/<*>/module/hms/core/map/libscenemap napi.z.so
+398,H /system/<*>/module/hms/core/map/libsite.z.so
+399,H /system/<*>/module/hms/core/map/libsite napi.z.so
+400,H /system/<*>/module/hms/core/map/libmapcommon.z.so
+401,H /system/<*>/module/hms/core/map/libmapcommon napi.z.so
+402,H /system/<*>/module/hms/core/map/libstaticmap.z.so
+403,H /system/<*>/module/hms/core/map/libstaticmap napi.z.so
+404,H static OHOS Global Resource RState OHOS Global Resource HapParser ReadRawFileDescriptor const char * const std string & ResourceManager RawFileDescriptor &
+405,H static void OHOS Global Resource Utils CanonicalizePath const char * char * size t
+406,H CustomNode BuildItem HomeListComponent self <*> parent <*>
+407,H CustomNode BuildItem AUSafeAreaContainer self <*> parent <*>
+408,H CustomNode BuildItem SCSkinBackground self <*> parent <*>
+409,H CustomNode BuildItem AUPullRefresh self <*> parent <*>
+410,H CustomNode BuildItem AUImage self <*> parent <*>
+411,H CreateImageObj resource ///home refresh icon ch.png <*> <*>
+412,H GetImageData resource ///home refresh icon ch.png
+413,H CustomNode BuildItem AUDragLoadingSectionedWaterFlow self <*> parent <*>
+414,H CustomNode BuildItem HHeaderView self <*> parent <*>
+415,H CustomNode BuildItem HKingKongView self <*> parent <*>
+416,H Builder BuildLazyItem <*>
+417,H CustomNode BuildItem HKingKongItemView self <*> parent <*>
+418,H CreateImageObj resource ///home scan.png <*> <*>
+419,H GetImageData resource ///home <*>
+420,H TextLayoutAlgorithm MeasureContent id <*>
+421,H CreateImageObj resource ///home pay collect.png <*> <*>
+422,H GetImageData resource ///home pay collect.png
+423,H CreateImageObj resource ///home travel.png <*> <*>
+424,H CreateImageObj resource ///home card.png <*> <*>
+425,H CustomNode BuildItem HGridAppView self <*> parent <*>
+426,H ScrollableItemPool Allocate
+427,H CustomNode BuildItem HGridAppItemView self <*> parent <*>
+428,H CustomNode BuildItem AnimationPlayer self <*> parent <*>
+429,H Animation running empty
+430,H CreateImageObj resource ///more action gray.png <*> <*>
+431,H GetImageData resource ///more action gray.png
+432,H libmsgbox.so
+433,H CustomNode BuildItem MessageBoxComponent self <*> parent <*>
+434,H CustomNode BuildItem MessageBoxView self <*> parent <*>
+435,H CustomNode BuildItem MessageBoxTorchWrap self <*> parent <*>
+436,H CustomNode BuildItem AUText self <*> parent <*>
+437,H CustomNode BuildItem AUBadge self <*> parent <*>
+438,H CustomNode BuildItem MessageBoxDefaultItemView self <*> parent <*>
+439,H TextHeightFinal <*> TextContentWidth <*> FontSize <*>
+440,H CustomNode BuildItem ListOtherState self <*> parent <*>
+441,H CustomNode BuildItem Content self <*> parent <*>
+442,H CustomNode BuildItem HomeNaviView self <*> parent <*>
+443,H CustomNode BuildItem HCitySelectView self <*> parent <*>
+444,H CustomNode BuildItem HSearchBarIconView self <*> parent <*>
+445,H CustomNode BuildItem HSearchBarTipView self <*> parent <*>
+446,H CreateTaskLayout <*> self <*> parent <*>
+447,H GetCacheImageData key <*>&size <*> x <*>
+448,H CreateImagePixelMap resource ///home refresh icon ch.png sourceSize <*> <*> targetSize <*> <*> hdr <*> quality <*>
+449,H OnImageLoadSuccess <*> <*> srr resource ///home refresh icon ch.png
+450,H CreateImageObj empty source <*> <*>
+451,H CreateImageObj resource ///home elder icon.webp <*> <*>
+452,H GetImageData resource ///home elder icon.webp
+453,H GetCacheImageData key <*> <*> x <*>
+454,H CreateImagePixelMap resource ///home <*> sourceSize <*> <*> targetSize <*> <*> hdr <*> quality <*>
+455,H OnImageLoadSuccess <*> <*> srr resource ///home scan.png
+456,H CreateImagePixelMap resource ///home pay collect.png sourceSize <*> <*> targetSize <*> <*> hdr <*> quality <*>
+457,H OnImageLoadSuccess <*> <*> srr resource ///home pay collect.png
+458,H OnImageLoadSuccess <*> <*> srr resource ///home travel.png
+459,H OnImageLoadSuccess <*> <*> srr resource ///home card.png
+460,H CreateImagePixelMap resource ///more action gray.png sourceSize <*> <*> targetSize <*> <*> hdr <*> quality <*>
+461,H OnImageLoadSuccess <*> <*> srr resource ///more action gray.png
+462,H OnImageLoadSuccess <*> <*> srr pixmapID <*> modifyID details <*> <*> <*> <*>
+463,H CreateImagePixelMap resource ///tab icon home alipay.webp sourceSize <*> <*> targetSize <*> <*> hdr <*> quality <*>
+464,H OnImageLoadSuccess <*> <*> srr resource ///tab icon home alipay.webp
+465,H CreateTaskLayout Image self <*> parent <*>
+466,H ExpandSafeArea node count <*> IsSafeAreaValid <*> ignoreSafeArea <*> isFullScreen <*> isNeedAvoidWindow <*>
+467,H AnimationCallback <*>
+468,H FlushRenderTask <*>
+469,H Text id <*> paint offset <*> <*>
+470,H FrameNode Text id <*> RenderTask
+471,H FrameNode Blank id <*> RenderTask
+472,H FrameNode Image id <*> RenderTask
+473,H FrameNode Divider id <*> RenderTask
+474,H FrameNode Swiper id <*> RenderTask
+475,H FrameNode WaterFlow id <*> RenderTask
+476,H FrameNode Grid id <*> RenderTask
+477,H UITaskScheduler FlushLatestFrameLayoutFinishTask
+478,H NotifyFrameLayoutFinish id <*> rect <*> <*> <*> <*> notifyListener <*>
+479,H FlushNodeChangeFlag
+480,H RSModifierManager Draw num <*>
+481,H RSModifier Draw
+482,H FlushFocus
+483,H HandleOnAreaChangeEvent
+484,H RSSurfaceRenderNode NotifyUIBufferAvailable id <*> bufferAvailable <*> waitUifirst <*>
+485,H NotifyUIBufferAvailable done. id <*>
+486,H UITaskScheduler FlushAfterRenderTask
+487,H ArkUIPerfMonitor state mgmt <*> layout <*> render <*> property <*> total <*> framework <*> display sync rate <*>
+488,H OnIdle targettime <*>
+489,H LazyForEach predict
+490,H JANK FRAME UNFILTERED skipppedFrameTime <*> ms windowName <*> filterType <*>
+491,H IsExclusionFrame isResponse <*> isStartApp <*> isBg <*> isExcluWindow <*> isExcAni <*>
+492,H libbloxohos.so
+493,H /system/<*>/module/libhidebug.z.so
+494,H /system/<*>/module/librunninglock.z.so
+495,H OnImageLoadSuccess <*> <*> srr resource ///arrow message.webp
+496,H ~AnimationCallback <*>
+497,H libentry.so
+498,H /system/<*>/module/libfile.z.so
+499,H virtual OHOS ErrCode OHOS AppExecFwk BundleMgrProxy GetJsonProfile OHOS AppExecFwk ProfileType const std string & const std string & std string & <*> t
+500,H GpuHostImpl OnChannelEstablished
+501,H CustomNodeUpdate TabBar
+502,H CustomNodeUpdate AUTabBar
+503,H CustomNodeUpdate HomeListComponent
+504,H CustomNodeUpdate SCSkinBackground
+505,H CustomNodeUpdate AUDragLoadingSectionedWaterFlow
+506,H CustomNodeUpdate HomeNaviView
+507,H CustomNodeUpdate TLTabBarItem
+508,H CustomNodeUpdate HCitySelectView
+509,H CustomNodeUpdate HHeaderView
+510,H CustomNodeUpdate HomeUpIcon
+511,H CustomNodeUpdate MessageBoxComponent
+512,H CustomNodeUpdate HGridAppView
+513,H CustomNodeUpdate HKingKongItemView
+514,H CustomNodeUpdate HSearchBarTipView
+515,H CustomNodeUpdate HGridAppItemView
+516,H CustomNodeUpdate AnimationPlayer
+517,H CustomNodeUpdate AUTabBarItem
+518,H CustomNodeUpdate AUIcon
+519,H CustomNodeUpdate MessageBoxView
+520,H CustomNodeUpdate AUImage
+521,H CustomNodeUpdate AUCustomIcon
+522,H CustomNodeUpdate MessageBoxItemView
+523,H CustomNodeUpdate MessageBoxHeaderView
+524,H CreateTaskMeasure Common self <*> parent <*> layoutConstraint minSize <*> x <*> maxSize <*> x <*> percentReference <*> x <*> parentIdealSize <*> x <*> selfIdealSize NA x NA
+525,H SkipMeasure Image self <*>
+526,H CreateTaskMeasure Stack self <*> parent <*> layoutConstraint minSize <*> x <*> maxSize <*> x <*> percentReference <*> x <*> parentIdealSize <*> x <*> selfIdealSize NA x NA
+527,H CustomNode BuildItem HGridMyAppIconView self <*> parent <*>
+528,H ConcurrentMarker Mark
+529,H GC MarkOldToNew
+530,H GC MarkRoots
+531,H SkipMeasure Common self <*>
+532,H CreateTaskLayout Stack self <*> parent <*>
+533,H CreateTaskLayout Common self <*> parent <*>
+534,H CreateTaskMeasure <*> self <*> parent <*> layoutConstraint minSize <*> x <*> maxSize <*> x <*> percentReference <*> x <*> parentIdealSize <*> x <*> selfIdealSize NA x <*>
+535,H SkipMeasure Navigation self <*>
+536,H CreateTaskLayout page self <*> parent <*>
+537,H SkipMeasure Divider self <*>
+538,H SkipMeasure TabContent self <*>
+539,H SkipMeasure Row self <*>
+540,H SkipMeasure Column self <*>
+541,H SkipMeasure Stack self <*>
+542,H SkipMeasure Text self <*>
+543,H SkipMeasure FlowItem self <*>
+544,H CreateTaskMeasure Row self <*> parent <*> layoutConstraint minSize <*> x <*> maxSize <*> x <*> percentReference <*> x <*> parentIdealSize <*> x <*> selfIdealSize NA x NA
+545,H CreateTaskLayout Row self <*> parent <*>
+546,H CustomNodeBase Destroy <*>
+547,H aboutToBeDeleted
+548,H JSAnimateTo
+549,H duration <*> curve linear instanceId <*> finish cnt <*>
+550,H opacity from <*> to <*> id <*> tag <*>
+551,H OnImageLoadSuccess <*> <*> srr https //gw.alipayobjects.com/zos/mwalletmngappcenter/<*>/<*> <*> <*>/<*> icon L.png
+552,H OnImageLoadSuccess <*> <*> srr https //mdn.alipayobjects.com/portal <*>/afts/img/A*aKqURIIJrEMAAAAAAAAAAAAAAQAAAQ/original
+553,H OnImageLoadSuccess <*> <*> srr https //appstoreisvpic.alipayobjects.com/prod/<*> <*> <*> <*> <*>.png@<*>.png
+554,H OnImageLoadSuccess <*> <*> srr resource ///skin center transparent bg.png
+555,H OnImageLoadSuccess <*> <*> srr https //gw.alipayobjects.com/zos/nebulamng/<*> <*> <*> <*> <*>/icon/<*>.png
+556,H OnImageLoadSuccess <*> <*> srr https //gw.alipayobjects.com/zos/mwalletmng/mukPPhtdXrnqECpCXXDq.png
+557,H OnImageLoadSuccess <*> <*> srr https //mdn.alipayobjects.com/huamei <*>/afts/img/A*<*> AQ/original
+558,H PartialGC <*> <*> <*> <*> <*> <*> <*> <*> <*>
+559,H PartialGC Initialize
+560,H PartialGC Mark
+561,H GC MarkJitCodeMap
+562,H PartialGC Sweep
+563,H GC ProcessNativeDelete
+564,H PartialGC Evacuate
+565,H GC EvacuateSpace
+566,H GC UpdateRoot
+567,H GC UpdateWeakReference
+568,H PartialGC Finish
+569,H InvokeNativeFinalizeCallbacks num <*>
+570,H OnImageLoadSuccess <*> <*> srr https //appstoreisvpic.alipayobjects.com/prod/<*> <*> <*> <*> <*>.png
+571,H OnImageLoadSuccess <*> <*> srr http //mdn.alipayobjects.com/afts/file/A*<*>?bz mwalletmng&amp t <*>
+572,H Transparent detection
+573,H LazyForEach OnDataReloaded
+574,H RunFinalizeCallbacks <*>
+575,H CustomNode BuildItem HCCubeComponent self <*> parent <*>
+576,H CustomNode BuildItem CSCardComponent self <*> parent <*>
+577,H CustomNode BuildItem FalconComponent self <*> parent <*>
+578,H CustomNode BuildItem FalconCRoot self <*> parent <*>
+579,H CustomNode BuildItem CustomSupport self <*> parent <*>
+580,H CustomNode BuildItem ContainerComponent self <*> parent <*>
+581,H CustomNode BuildItem CPLGSMediaWidget self <*> parent <*>
+582,H CustomNode BuildItem DowngradeImage self <*> parent <*>
+583,H JANK FRAME FILTERED skipppedFrameTime <*> ms windowName <*>
+584,H OnImageLoadSuccess <*> <*> srr https //mdn.alipayobjects.com/huamei hekcyx/afts/img/A*ymulQLSwRvMAAAAAAAAAAAAADrnrAQ/original
+585,H CustomNodeUpdate ContainerComponent
+586,H CustomNodeUpdate CPLGSMediaWidget
+587,H CustomNodeUpdate FalconComponent
+588,H CustomNodeUpdate FalconCRoot
+589,H CustomNodeUpdate DowngradeImage
+590,H CreateTaskLayout Flex self <*> parent <*>
+591,H CustomNode BuildItem LottiePlayer self <*> parent <*>
+592,H CanvasPattern OnDirtyLayoutWrapperSwap
+593,H CanvasEventHub FireReadyEvent
+594,H P sq <*> <*>
+595,H CanvasModifier onDraw Op count <*>
+596,H FrameNode Canvas id <*> RenderTask
+597,H CanvasPaintMethod UpdateContentModifier
+598,H Canvas tasks count <*>
+599,H OnImageLoadSuccess <*> <*> srr https //mdn.alipayobjects.com/huamei hekcyx/afts/img/A*gKxdQbeqflsAAAAAAAAAAAAADrnrAQ/original
+600,H GpuHostImpl LoadedBlob handle type <*>
+601,H <*> Id <*>
+602,H CheckRate Id <*> RateChangedTo <*>
+603,H DisplaySyncId <*> Type <*> Timestamp <*> TargetTimestamp <*> FrameRateRange <*> <*> <*> DrawFPS <*> VSyncRate <*> Rate <*> noSkip <*>
+604,H onFrame ohos.animator iteration <*> id <*>
+605,H ohos.animator onframe. duration <*> curve linear id <*>
+606,H CustomNodeUpdate LottiePlayer
+607,H SkipMeasure Canvas self <*>
+608,H FlushFrameRate Expected frameRate <*> frameRateType <*> currAnimatorExpectedFrameRate <*> lastAnimatorExpectedFrameRate <*>
+609,H RSUIDirector ProcessMessages PostTask messageId <*>
+610,H SequenceManager DoIdleWork
+611,H Preload FlowItem <*>
+612,H PeriodicPurge
+613,H CreateTaskLayout WaterFlow self <*> parent <*>
+614,H CustomNodeUpdate MessageBoxDefaultItemView
+615,H CustomNodeUpdate AUText
+616,H CustomNode BuildItem MessageBoxMsgTagView self <*> parent <*>
+617,H aboutToDisappear
+618,H CustomNode BuildItem HarmonyWebComponent self <*> parent <*>
+619,H WebPattern OnAttachToFrameNode web id <*>
+620,H RSNode AddChild Id <*> SurfaceNode Id <*> name RosenWeb
+621,H PrepareInitOHOSWeb
+622,H NWebImpl CreateNWeb nweb id <*>
+623,H WebContentsImpl WebContentsImpl
+624,H WebContentsObserverList NotifyObservers
+625,H WebContentsImpl Init
+626,H SiteInstanceImpl SetProcessInternal site id <*> process id <*>
+627,H TouchActionFilter ResetTouchAction
+628,H TouchActionFilter SetTouchAction action AUTO
+629,H WebContentsImpl NotifySwappedFromRenderManager old render frame host Unsupported crbug.com/<*> new render frame host Unsupported crbug.com/<*>
+630,H WebContentsImpl NotifyFrameSwapped old frame Unsupported crbug.com/<*> new frame Unsupported crbug.com/<*>
+631,H NWebDelegate Resize width <*> height <*>
+632,H AppExecFwk ElementName OHOS AAFwk AbilityManagerClient GetTopAbility bool
+633,H OnRenderToBackground
+634,H NWebDelegate OnWindowHide
+635,H AlloyBrowserHostImpl OnWindowHide
+636,H AlloyBrowserHostImpl SetVisible nweb id <*> visible <*>
+637,H <*> <*> url https //miniprogram.alipay eco.com/index.html
+638,H PAGE LOAD TIME navigationStart <*>
+639,H NavigationRequest Create browser initiated true
+640,H NavigationRequest NavigationRequest navigation request Unsupported crbug.com/<*>
+641,H Navigator Navigate
+642,H <*> <*> render frame host Unsupported crbug.com/<*>
+643,H SiteInstanceImpl SetSiteInfoToDefault site id <*>
+644,H WebContentsImpl CreateRenderViewForRenderManager render view host Unsupported crbug.com/<*>
+645,H GestureProvider InitGestureDetectors
+646,H SingleThreadProxy SingleThreadProxy
+647,H LayerTreeHost InitializeForReal
+648,H Scheduler Scheduler settings
+649,H Scheduler SetDeferBeginMainFrame defer begin main frame <*>
+650,H SingleThreadProxy SetVisible visible true
+651,H SingleThreadProxy SetNeedsUpdateLayers
+652,H RenderViewHostImpl CreateRenderView
+653,H RenderWidgetHostImpl GetScreenInfos
+654,H RenderWidgetHostImpl WasShown
+655,H DelegatedFrameHost EmbedSurface surface id LocalSurfaceId <*> <*> <*>... deadline policy DeadlinePolicy UseDefaultDeadline <*>
+656,H FrameTreeNode DidStartLoading frame tree node <*> loading state <*>
+657,H WebContentsImpl NotifyNavigationStateChanged changed flags <*>
+658,H PrerenderHostRegistry <*> navigation url https //miniprogram.alipay eco.com/index.html render frame host Unsupported crbug.com/<*>
+659,H WebContentsImpl <*> navigation handle Unsupported crbug.com/<*>
+660,H PAGE LOAD TIME fetchStart <*>
+661,H ServiceWorkerControlleeRequestHandler ServiceWorkerControlleeRequestHandler
+662,H NoStatePrefetchManagerFactory GetForProfile
+663,H VisitedLinkWriter AddURLs
+664,H WebContentsImpl WasHidden
+665,H RenderWidgetHostImpl WasHidden
+666,H CefRenderWidgetHostViewOSR EvictFrameBackBuffers invisible true
+667,H GpuChannelHost CreateViewCommandBuffer
+668,H CommandBufferProxyImpl Initialize
+669,H GpuChannel CreateCommandBuffer
+670,H RasterImplementation Initialize
+671,H ImplementationBase Initialize
+672,H <*> Initialize
+673,H LayerTreeHost SetLayerTreeFrameSink
+674,H LayerTreeHostImpl InitializeFrameSink
+675,H LayerTreeHostImpl ReleaseLayerTreeFrameSink
+676,H <*> SetAggressivelyFreeResources aggressively free resources <*>
+677,H CommandBufferHelper Flush
+678,H CommandBufferProxyImpl Flush put offset <*>
+679,H SingleThreadProxy SetNeedsPrepareTilesOnImplThread
+680,H SchedulerStateMachine SetNeedsPrepareTiles
+681,H SingleThreadProxy OnCanDrawStateChanged can draw <*>
+682,H Scheduler DidCreateAndInitializeLayerTreeFrameSink
+683,H Graphics.Pipeline step ReceiveBeginFrame frame sequence <*>
+684,H ExternalBeginFrameSource OnBeginFrame frame time <*> interval <*>
+685,H ExternalBeginFrameSource OnBeginFrame Process non root
+686,H Scheduler BeginFrame args
+687,H Scheduler BeginImplFrame args main thread missed last deadline false
+688,H AnimationHost TickAnimations
+689,H SingleThreadProxy ScheduledActionSendBeginMainFrame
+690,H Scheduler NotifyBeginMainFrameStarted
+691,H LayerTreeHost ApplyCompositorChanges
+692,H LayerTreeHost DoUpdateLayers source frame number <*>
+693,H LayerTreeHost UpdateLayers BuildPropertyTrees
+694,H Scheduler NotifyReadyToCommit
+695,H SingleThreadProxy DoCommit
+696,H LayerTreeHostImpl BeginCommit
+697,H LayerTreeHostImpl FinishCommit
+698,H TreeSynchronizer SynchronizeTrees
+699,H LayerTreeImpl PullProperties
+700,H TreeSynchronizer PushLayerPropertiesTo.Main layer count <*>
+701,H SurfaceLayer PushPropertiesTo
+702,H LayerTreeHost AnimationHost PushProperties
+703,H SingleThreadProxy DoPostCommit
+704,H LayerTreeHostImpl CommitComplete
+705,H LayerTreeImpl UpdateDrawProperties
+706,H LayerTreeImpl UpdateDrawProperties <*> IsActive true SourceFrameNumber <*>
+707,H draw property utils FindLayersThatNeedUpdates
+708,H draw property utils ComputeDrawPropertiesOfVisibleLayers visible layers <*>
+709,H CalculateRenderSurfaceLayerList
+710,H ImageAnimationController AnimateImagesForSyncTree frame time from now <*>
+711,H LayerTreeImpl InvalidateRegionForImages total layer count <*>
+712,H ImageAnimationController WillActivate
+713,H TileManager PrepareTiles prepare tiles id <*>
+714,H TileManager AssignGpuMemoryToTiles
+715,H TileManager ScheduleTasks count <*>
+716,H SoftwareImageDecodeCache ReduceCacheUsageUntilWithinLimit
+717,H TileTaskManagerImpl ScheduleTasks
+718,H SingleThreadTaskGraphRunner ScheduleTasks num nodes <*> num edges <*>
+719,H SingleThreadProxy NotifyReadyToActivate
+720,H LayerTreeHostImpl ActivateSyncTree
+721,H ProcessUIResourceRequestQueue queue size <*>
+722,H LayerTreeHost WaitForCommitCompletion
+723,H ServiceWorkerControlleeRequestHandler ~ServiceWorkerControlleeRequestHandler
+724,H RenderFrameHostImpl CommitNavigation navigation request Unsupported crbug.com/<*> url Unsupported crbug.com/<*>
+725,H RenderFrameHostImpl SendCommitNavigation
+726,H TileManager DidFinishRunningTileTasksRequiredForActivation
+727,H TileManager DidFinishRunningTileTasksRequiredForDraw
+728,H TileManager DidFinishRunningAllTileTasks
+729,H TileManager FlushAndIssueSignals
+730,H TileTaskManagerImpl CheckForCompletedTasks
+731,H SingleThreadTaskGraphRunner CollectCompletedTasks
+732,H TileManager CheckPendingGpuWorkAndIssueSignals pending gpu work tiles <*> tree priority SAME PRIORITY FOR BOTH TREES
+733,H TileManager IsReadyToDraw
+734,H SingleThreadProxy NotifyReadyToDraw
+735,H Scheduler ScheduleBeginImplFrameDeadline new deadline <*> deadline mode BeginImplFrameDeadlineMode <*>
+736,H Scheduler OnBeginImplFrameDeadline
+737,H SingleThreadProxy DoComposite
+738,H LayerTreeHostImpl PrepareToDraw SourceFrameNumber <*>
+739,H Graphics.Pipeline step <*>
+740,H TileManager PrepareToDraw
+741,H LayerTreeHostImpl CalculateRenderPasses render surface list.size <*> RequiresHighResToDraw false
+742,H DrawLayers.FrameViewerTracing
+743,H MainFrame.SubmitCompositorFrame
+744,H Graphics.Pipeline step SubmitCompositorFrame local surface id LocalSurfaceId <*> <*> <*>...
+745,H LayerTreeHostImpl BuildHitTestData
+746,H Graphics.Pipeline step DidNotProduceFrame reason <*>
+747,H SingleThreadProxy DidReceiveCompositorFrameAckOnImplThread
+748,H CefHostDisplayClientOSR DidCompleteSwapWithNewSize size <*>
+749,H FramePresented environment browser
+750,H AcquireBuffer with PresentTimestamp name RosenWeb queueId <*> queueSize <*> <*>
+751,H AcquireBuffer name RosenWeb queueId <*>
+752,H acquire buffer sequence <*> desiredPresentTimestamp <*> isAotuTimestamp <*>
+753,H RsDebug surfaceHandler id <*> AcquireBuffer success acquireTimeStamp <*> buffer timestamp <*> seq <*>
+754,H virtual OHOS ErrCode OHOS AppExecFwk BundleMgrProxy GetNameForUid const int std string &
+755,H ResSchedClientAdapter ReportRenderProcessStatus render process id <*> status <*>
+756,H LayerTreeHostImpl CalculateRenderPasses EmptyDamageRect
+757,H WebContentsImpl DidNavigateMainFramePreCommit navigation is within page false
+758,H ClassifyNavigation
+759,H MetricsWebContentsObserver MaybeRestorePageLoadTrackerForBackForwardCache next navigation Unsupported crbug.com/<*>
+760,H MetricsWebContentsObserver MaybeActivatePageLoadTracker navigation Unsupported crbug.com/<*>
+761,H VisitedLinkWriter AddURL
+762,H GestureProvider OnTouchEvent action Action CANCEL
+763,H FlingBooster Reset
+764,H <*> OnHasTouchEventHandlers has handlers false
+765,H Inspector GetRectangleById Id <*> Tag Stack Key home tab message box component
+766,H CustomNodeUpdate HGridMyAppIconView
+767,H Navigation Main Page
+768,H CustomNode BuildItem LoginBackgroundRenderView self <*> parent <*>
+769,H CustomNode BuildItem DisplayDefaultView self <*> parent <*>
+770,H OnImageLoadSuccess <*> <*> srr resource ///login alipay slogan new black.png
+771,H TouchTest
+772,H DispatchTouchEvent id <*> pointX <*> pointY <*> type <*>
+773,H /system/<*>/module/customization/libcustomconfig.z.so
+774,H FrameTreeNode DidStopLoading frame tree node <*>
+775,H CustomNodeUpdate RootPage
+776,H CustomNode BuildItem LoginAccountView self <*> parent <*>
+777,H NavDestination Page from to navDesitinationName AccountPage
+778,H CreateTaskLayout NavigationMenu self <*> parent <*>
+779,H SkipMeasure NavBarContent self <*>
+780,H CustomNode BuildItem TrackComponent self <*> parent <*>
+781,H CustomNode BuildItem TextButton self <*> parent <*>
+782,H CustomNode BuildItem LoginTitleBar self <*> parent <*>
+783,H CustomNode BuildItem TrackComponentForClick self <*> parent <*>
+784,H CreateTaskLayout NavDestination self <*> parent <*>
+785,H OnImageLoadSuccess <*> <*> srr resource ///title bar back btn <*> dark.png
+786,H OnImageLoadSuccess <*> <*> srr resource ///icon.png
+787,H SkipMeasure NavigationContent self <*>
+788,H TransferBuffer Free
+789,H CommandBufferProxyImpl OrderingBarrier put offset <*>
+790,H NotifyResponseRegionChanged
+791,H CompensateTouchMoveEvent last move event time <*> last dispatch time <*>
+792,H Finger id <*> process last move event eventId <*>
+793,H CustomNodeUpdate LoginAccountView
+794,H CustomNodeUpdate TrackComponent
+795,H CustomNodeUpdate LoginTitleBar
+796,H CustomNodeUpdate TrackComponentForClick
+797,H CustomNode BuildItem Loading self <*> parent <*>
+798,H FrameNode LoadingProgress id <*> RenderTask
+799,H partition alloc MemoryReclaimer Reclaim
+800,H CustomNode BuildItem LoginVerifyView self <*> parent <*>
+801,H NavDestination Page from navDesitinationName AccountPage to navDesitinationName VerifyPage
+802,H SkipMeasure NavDestinationContent self <*>
+803,H CustomNodeUpdate LoginVerifyView
+804,H CustomNode BuildItem LoginVerifyPwdView self <*> parent <*>
+805,H CustomNode BuildItem PwdTextInput self <*> parent <*>
+806,H CustomNode BuildItem TrackComponentForManualClick self <*> parent <*>
+807,H CreateTaskLayout RelativeContainer self <*> parent <*>
+808,H FrameNode TextInput id <*> RenderTask
+809,H duration <*> curve cubic bezier <*> <*> <*> <*> instanceId <*> finish cnt <*>
+810,H CustomNodeUpdate TrackComponentForManualClick
+811,H SkipMeasure Flex self <*>
+812,H SkipMeasure Button self <*>
+813,H opacity from <*> to <*> id <*> tag Common
+814,H CustomNodeUpdate LoginBackgroundRenderView
+815,H CustomNodeUpdate LoginVerifyPwdView
+816,H CustomNodeUpdate TextButton
+817,H CustomNodeUpdate PwdTextInput
+818,H OnImageLoadSuccess <*> <*> srr resource ///login clear bg light.png
+819,H OnImageLoadSuccess <*> <*> srr resource ///login eye hide.png
+820,H TimeoutMonitor TimeOutHandler
+821,H onFinish cnt <*>
+822,H Napi <*> name IMF handleSoftKeyboard traceid <*>
+823,H CreateTaskMeasure TextInput self <*> parent <*> layoutConstraint minSize <*> x <*> maxSize <*> x <*> percentReference <*> x <*> parentIdealSize NA x <*> selfIdealSize <*> x NA
+824,H CreateTaskLayout TextInput self <*> parent <*>
+825,H NotifyKeyboardHeight
+826,H BeginSyncTransaction
+827,H OnVirtualKeyboardHeightChange
+828,H SkipMeasure RelativeContainer self <*>
+829,H CommitSyncTransaction syncId <*> syncCount <*> parentPid <*>
+830,H RSMainThread ProcessCommandUni <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+831,H RSMainThread ProcessAllSyncTransactionData
+832,H RSMainThread UniRender nothing to update
+833,H RSMainThread ProcessCommandUni <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+834,H InsertText length <*>
+835,H OnGoBackground name CanvasPopWindow queueId <*>
+836,H RSMainThread ProcessCommandUni <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+837,H FinishTextPreview
+838,H OnImageLoadSuccess <*> <*> srr resource ///ohos hide password.svg
+839,H <*> absRect is empty dst rect <*> <*> <*> <*> old dirty in surface <*> <*> <*> <*>
+840,H OnGoBackground name SCBKeyboardPanel queueId <*>
+841,H RunTriggerGCTaskCallback
+842,H ProcessNativeDeleteNum <*>
+843,H ProcessReferencesNum <*>
+844,H RunNativeCallbacks <*>
+845,H OnImageLoadSuccess <*> <*> srr https //mdn.alipayobjects.com/afts/img/A*<*>/original?bz ALIPAYHOME
+846,H SuspendTime WaitSuspension
+847,H SuspendTime StoreRunningState
+848,H JsWindowListener LifeCycleCallBack
+849,H CallObjectMethod onBackground
+850,H onPageHide
+851,H GC ProcessOldToNew
+852,H RSSurfaceCaptureTaskParallel CheckModifiers
+853,H GetUtilFromDelayTime delayTime is <*> util is <*>
+854,H RSMainThread SendCommand to pid <*> cmdIndex <*> cmdCount <*> pid <*> cmdIndex <*> cmdCount <*>
+855,H AcquireBuffer with PresentTimestamp name video.wallpaperSurface queueId <*> queueSize <*> <*>
+856,H AcquireBuffer name video.wallpaperSurface queueId <*>
+857,H need purgeUnlockedResources this SurfaceNode isn t on the tree Id <*> Name WindowScene <*>
+858,H OnGoBackground name <*> queueId <*>
+859,H RequestLayerStrategy
+860,H SetDisplayLayerInfo <*>
+861,H AddLayer <*> skipable <*>
+862,H PreValidate

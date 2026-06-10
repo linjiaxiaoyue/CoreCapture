@@ -1,0 +1,219 @@
+﻿id,template
+1,H IsLeashWindowCache needFilterSCB <*>
+2,H PrevalidateHwcNode hwcLayer <*> uifirstLayer <*>
+3,H RSFilterDrawable MarkNeedClearFilterCache nodeId <*> forceUseCache <*> forceClearCache <*> hashChanged <*> regionChanged <*> belowDirty <*> lastCacheType <*> cacheUpdateInterval <*> canSkip <*> isLargeArea <*> filterType <*> pendingPurge <*> forceClearCacheWithLastFrame <*> rotationChanged <*>
+4,H HDI DISP <*>
+5,H HDR <*> in Unirender <*> brightnessRatio <*>
+6,H PostAndWait parallel type <*>
+7,H FrameS EndFrameFreq rtg <*> ret <*>
+8,H ReceiveVsync dataCount <*> now <*> expectedEnd <*> vsyncId <*> fd <*>
+9,H GetMarginFromHistory avgFrameTime is <*> margin is <*> <*> is <*> <*> is <*>
+10,H FrameS BeginScene rtg <*> <*> <*> ret <*>
+11,H RSMainThread DoComposition <*>
+12,H AcquireBuffer with PresentTimestamp name oh flutter <*> queueId <*> queueSize <*> <*>
+13,H AcquireBuffer name oh flutter <*> queueId <*>
+14,H acquire buffer sequence <*> desiredPresentTimestamp <*> isAotuTimestamp <*>
+15,H RsDebug surfaceHandler id <*> AcquireBuffer success acquireTimeStamp <*> buffer timestamp <*> seq <*>
+16,H RSMainThread ProcessCommandUni
+17,H Animate
+18,H VSyncReceiver period <*> timeStamp <*> isThreadShared <*>
+19,H Animate nodeSize totalAnimationSize is <*> <*>
+20,H rs RequestNextVSync
+21,H IsAnimate <*> hardwareTaskNum <*> NotRenderNum <*>
+22,H ProcessHgmFrameRate pendingRefreshRate <*>
+23,H RSUniRender QuickPrepareDisplayRenderNode <*>
+24,H UpdateUifirstNodes Id <*> name <*> FLId <*> Ani <*> Support <*> isUiFirstOn <*>
+25,H RSUniRender PrepareRootRenderNode node <*> pid <*> subTreeDirty <*>
+26,H UpdateUifirstNodes Id <*> name oh flutter <*> FLId <*> Ani <*> Support <*> isUiFirstOn <*>
+27,H UpdateUifirstNodes Id <*> name WindowScene <*> FLId <*> Ani <*> Support <*> isUiFirstOn <*>
+28,H IsLeashWindowCache toSubThread <*> IsScale <*> filter <*> rotate <*> captured <*>
+29,H AudioRenderer Enqueue
+30,H RendererInClientInner Enqueue <*>
+31,H ReleaseResource
+32,H ReleaseNodeMemory
+33,H HandleDelayDestroyQueue
+34,H RSMainThread ProcessCommandUni <*> <*>
+35,H ReleaseNodeMemory <*>
+36,H RSMainThread SendCommand to pid <*> cmdIndex <*> cmdCount <*>
+37,H SchedWithUtil uti is <*>
+38,H RSSurfaceRenderNode SetIsOnTheTree node name <*> id <*> on tree <*> nodeType <*>
+39,H need purgeUnlockedResources this SurfaceNode isn t on the tree Id <*> Name <*>
+40,H ConcurrentMarker Mark
+41,H GC MarkRoots
+42,H PartialGC <*> <*> <*> <*> <*> <*> <*> <*> <*>
+43,H PartialGC Initialize
+44,H PartialGC Mark
+45,H GC MarkJitCodeMap
+46,H PartialGC Sweep
+47,H GC ProcessNativeDelete
+48,H ProcessNativeDeleteNum <*>
+49,H PartialGC Evacuate
+50,H GC EvacuateSpace
+51,H GC UpdateRoot
+52,H GC UpdateWeakReference
+53,H ProcessReferencesNum <*>
+54,H PartialGC Finish
+55,H InvokeNativeFinalizeCallbacks num <*>
+56,H onSubmitUV
+57,H RunFinalizeCallbacks <*>
+58,H RunNativeCallbacks <*>
+59,H DropBuffer name oh flutter <*> queueId <*> buffer seq <*> buffer desiredPresentTimestamp <*> acquire expectPresentTimestamp <*>
+60,H ReleaseBuffer name oh flutter <*> queueId <*> seq <*>
+61,H handle set task min util tid is <*> uclamp is <*>
+62,H FrameS hardware <*>
+63,H RSRenderNodeDrawable Ptr RSSurfaceRenderNodeDrawable OnGenerate
+64,H RSSurfaceRenderNode SetIsOnTheTree node name WindowScene <*> id <*> on tree <*> nodeType <*>
+65,H nID <*> nType <*> support <*> canvasNodeNum <*> mainwindowNum <*>
+66,H uifirst node support <*> canvasNodeNum <*> mainwindowNum <*> startingWindow <*>
+67,H DisableUifirstNode
+68,H need purgeUnlockedResources this SurfaceNode isn t on the tree Id <*> Name WindowScene <*>
+69,H GetUtilFromDelayTime delayTime is <*> util is <*>
+70,H CleanVirtualScreens <*>
+71,H CleanRenderNodes <*>
+72,H ClearTransactionDataPidInfo <*>
+73,H UnRegisterCallback <*>
+74,H RSMainThread CheckAndUpdateTransactionIndex Trigger NextVsync
+75,H RSMainThread ProcessCommandUni cache <*> <*>
+76,H RSMainThread ProcessCommandUni <*> <*> cache <*> <*>
+77,H RSMainThread ProcessCommandUni <*> <*> <*> <*>
+78,H void OHOS AbilityRuntime UIAbilityThread HandleAbilityTransaction const OHOS AbilityRuntime Want & const OHOS AbilityRuntime LifeCycleStateInfo & sptr<AAFwk SessionInfo> ##EntryAbility
+79,H void OHOS AbilityRuntime UIAbilityImpl HandleAbilityTransaction const AAFwk Want & const AAFwk LifeCycleStateInfo & sptr<AAFwk SessionInfo>
+80,H virtual void OHOS AbilityRuntime UIAbilityImpl WindowLifeCycleImpl <*>
+81,H sptr<OHOS AAFwk IAbilityManager> OHOS AAFwk AbilityManagerClient GetAbilityManager
+82,H OHOS ErrCode OHOS AAFwk AbilityManagerProxy SendRequest OHOS AAFwk AbilityManagerInterfaceCode OHOS MessageParcel & OHOS MessageParcel & OHOS MessageOption &
+83,H JsWindowListener LifeCycleCallBack
+84,H uifirst NotifyUIStartingWindow id <*> wait <*>
+85,H TouchTest
+86,H DispatchTouchEvent id <*> pointX <*> pointY <*> type <*>
+87,H flutter Shell OnPlatformViewDispatchPointerDataPacket
+88,H submit <*>
+89,H OnVsyncCallback <*> <*>
+90,H OnVsyncEvent now <*>
+91,H UIVsyncTask timestamp <*> vsyncID <*> instanceID <*>
+92,H DispatchDisplaySync
+93,H FlushAnimation
+94,H RunningCustomAnimation num <*> time <*>
+95,H FlushDirtyNodeUpdate
+96,H UITaskScheduler FlushTask
+97,H FlushLayoutTask
+98,H UITaskScheduler FlushLatestFrameLayoutFinishTask
+99,H FlushNodeChangeFlag
+100,H FlushMessages
+101,H SendCommands
+102,H FlushFocus
+103,H UITaskScheduler FlushAfterRenderTask
+104,H ArkUIPerfMonitor state mgmt <*> layout <*> render <*> property <*> total <*> framework <*> display sync rate <*>
+105,H OnIdle targettime <*>
+106,H Finger id <*> process last move event eventId <*>
+107,H JANK FRAME UNFILTERED skipppedFrameTime <*> ms windowName <*> filterType <*>
+108,H IsExclusionFrame isResponse <*> isStartApp <*> isBg <*> isExcluWindow <*> isExcAni <*>
+109,H Napi <*> name JsWindow <*> traceid <*>
+110,H DensityChangeCallback <*>
+111,H SafeAreaManager <*> SafeAreaInsets left start <*> end <*> top start <*> end <*> right start <*> end <*> bottom start <*> end <*>
+112,H FFBKdep <*>
+113,H CreateTaskMeasure <*> self <*> parent <*> layoutConstraint minSize <*> x <*> maxSize <*> x <*> percentReference <*> x <*> parentIdealSize <*> x <*> selfIdealSize NA x NA
+114,H SkipMeasure Stack self <*>
+115,H CreateTaskLayout page self <*> parent <*>
+116,H ExpandSafeArea node count <*> IsSafeAreaValid <*> ignoreSafeArea <*> isFullScreen <*> isNeedAvoidWindow <*>
+117,H FlushRenderTask <*>
+118,H FrameNode Divider id <*> RenderTask
+119,H CustomNodeUpdate WeTopNavigationBar
+120,H JSView ExecuteRerender
+121,H SkipMeasure NavBar self <*>
+122,H SkipMeasure NavDestination self <*>
+123,H SkipMeasure Divider self <*>
+124,H CreateTaskLayout Navigation self <*> parent <*>
+125,H JANK FRAME FILTERED skipppedFrameTime <*> ms windowName <*>
+126,H RSMainThread UniRender nothing to update
+127,H NotifyResponseRegionChanged
+128,H CompensateTouchMoveEvent last move event time <*> last dispatch time <*>
+129,H NavDestination Page from lib weui/src/main/ets/page/WePageWrapper navDesitinationName <*> to lib weui/src/main/ets/page/WePageWrapper navDesitinationName <*>
+130,H SkipMeasure Column self <*>
+131,H SkipMeasure Row self <*>
+132,H SkipMeasure RelativeContainer self <*>
+133,H SkipMeasure List self <*>
+134,H CreateTaskLayout Column self <*> parent <*>
+135,H ExecuteJS
+136,H Navigation page custom transition <*>
+137,H Animation <*> and current sceneId ABILITY OR PAGE SWITCH
+138,H JSAnimateTo
+139,H duration <*> curve cubic bezier <*> <*> <*> <*> instanceId <*> finish cnt <*>
+140,H AnimationCallback <*>
+141,H CustomNodeUpdate WePageWrapper
+142,H translate from <*> <*> to <*> <*> id <*> tag NavDestination
+143,H SkipMeasure NavDestinationContent self <*>
+144,H CreateTaskLayout NavDestination self <*> parent <*>
+145,H MarshRSTransactionData cmdCount <*> transactionFlag <*> <*>
+146,H HandleOnAreaChangeEvent
+147,H HandleVisibleAreaChangeEvent
+148,H OnVisibleAreaChange visible <*> imageInfo <*> <*> file //com.tencent.wechat/data/storage/<*>/base/files/shared/aff/emoticon/share/files/Aff/stable/emo
+149,H GetCacheImageData key <*>
+150,H EVENT REPORT <*> RS sceneId ABILITY OR PAGE SWITCH uniqueId <*>
+151,H CustomNodeUpdate WeTopNavigationBarLeft
+152,H SkipMeasure Image self <*>
+153,H measure swiper startMainPos <*>
+154,H FrameNode TabBar id <*> RenderTask
+155,H RSUIDirector ProcessMessages PostTask messageId <*>
+156,H ~AnimationCallback <*>
+157,H onFinish cnt <*>
+158,H navigation page custom transition end
+159,H INTERACTION APP JANK sceneId ABILITY OR PAGE SWITCH startTime <*> ms maxFrameTime <*> ms
+160,H INTERACTION COMPLETED LATENCY sceneId ABILITY OR PAGE SWITCH inputTime <*> ms <*> <*> ms
+161,H CustomNodeBase Destroy <*>
+162,H aboutToBeDeleted
+163,H aboutToDisappear
+164,H Napi <*> name JsApplicationContextUtils OnOffEnvironment traceid <*>
+165,H Napi <*> name IMF handleSoftKeyboard traceid <*>
+166,H FrameNode Image id <*> RenderTask
+167,H RSSurfaceRenderNode SetIsOnTheTree node name oh flutter <*> id <*> on tree <*> nodeType <*>
+168,H need purgeUnlockedResources this SurfaceNode isn t on the tree Id <*> Name oh flutter <*>
+169,H SoundPool JsRelease
+170,H Napi <*> name <*> traceid <*>
+171,H ViewFunctions ExecuteRecycle
+172,H Sync GetDefaultDisplay
+173,H AttachFlutterEngine <*>
+174,H CustomNode OnAppear
+175,H aboutToAppear
+176,H CustomNode BuildItem FloatBallView self <*> parent <*>
+177,H CustomNode DidBuild
+178,H Napi <*> name THEME isScreenLocked traceid <*>
+179,H CustomNodeUpdate FloatBallView
+180,H SkipMeasure stage self <*>
+181,H CustomNode BuildItem CustomViewContainer self <*> parent <*>
+182,H CustomNode BuildItem VoIPMPBallView self <*> parent <*>
+183,H CustomNode BuildItem FloatBallButtonView self <*> parent <*>
+184,H CustomNode BuildItem FlutterComponent self <*> parent <*>
+185,H ForEachNode Update Id <*> preIds <*> newIds <*> tempOldIdsSet <*> additionalChildComps <*>
+186,H TextLayoutAlgorithm MeasureContent id <*>
+187,H CreateTaskLayout root self <*> parent <*>
+188,H OnSurfaceCreated <*>
+189,H RSNode AddChild Id <*> SurfaceNode Id <*> name oh flutter <*>
+190,H Text id <*> paint offset <*> <*>
+191,H FrameNode Text id <*> RenderTask
+192,H RSModifierManager Draw num <*>
+193,H RSModifier Draw
+194,H Napi <*> name JsWindowManager OnGetTopWindow traceid <*>
+195,H RSMainThread TimerExpiredCallback Run idleTimerExpiredFlag False forceUpdateFlag True
+196,H DVSyncIsOn <*>
+197,H ReleaseOffTreeNodeBucket <*>
+198,H JsDisplayListener OnChange
+199,H Sync OnGetDisplayByIdSync
+200,H Sync OnGetDisplayByIdSync end
+201,H Animation running empty
+202,H RSMainThread ProcessCommandUni <*> <*> <*> <*> <*> <*> <*> <*>
+203,H RSSurfaceCaptureTaskParallel CheckModifiers
+204,H RSMainThread ProcessCommandUni <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+205,H RSMainThread ProcessCommandUni <*> <*> <*> <*> <*> <*>
+206,H RSSurfaceRenderNode SetIsOnTheTree node name com.huawei.hmos.ailifesvcIotDeviceAbility id <*> on tree <*> nodeType <*>
+207,H bool OHOS AbilityRuntime UIAbilityImpl AbilityTransaction const AAFwk Want & const AAFwk LifeCycleStateInfo &
+208,H virtual void OHOS AbilityRuntime <*> OnBackground
+209,H CallObjectMethod onBackground
+210,H OnGoBackground name <*> queueId <*>
+211,H GC ProcessOldToNew
+212,H Napi <*> name JsWindowListener OnWindowStatusChange traceid <*>
+213,H static void OHOS AAFwk EventReport SendAbilityEvent const OHOS AAFwk EventName & HiSysEventType const OHOS AAFwk EventInfo &
+214,H void OHOS AppExecFwk MainThread HandleBackgroundApplication
+215,H Napi <*> name JsApplicationStateChangeCallback CallJsMethod onApplicationBackground traceid <*>
+216,H RSSurfaceRenderNode NotifyUIBufferAvailable id <*> bufferAvailable <*> waitUifirst <*>
+217,H NotifyUIBufferAvailable done. id <*>
+218,H RSMainThread ProcessCommandUni <*> <*> <*> <*> cache <*> <*> <*> <*>

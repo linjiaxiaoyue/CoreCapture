@@ -1,0 +1,382 @@
+[
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.735698",
+    "duration": "1.736",
+    "pre_interval": "0.000",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H handle set task min util tid is uclamp is H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP GetMetadata H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.737444",
+    "duration": "0.017",
+    "pre_interval": "0.010",
+    "trace_sequence": "H ReleaseNodeMemory",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.737462",
+    "duration": "0.001",
+    "pre_interval": "0.001",
+    "trace_sequence": "H ReleaseNodeMemory",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.746837",
+    "duration": "2.383",
+    "pre_interval": "9.374",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H RSSurfaceRenderNode SetIsOnTheTree node name id on tree nodeType H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H RSSurfaceRenderNode NotifyUIBufferAvailable id bufferAvailable waitUifirst H NotifyUIBufferAvailable done. id H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP GetMetadata H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.791316",
+    "duration": "3.105",
+    "pre_interval": "42.096",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP GetMetadata H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.802245",
+    "duration": "2.861",
+    "pre_interval": "7.824",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP GetMetadata H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.813271",
+    "duration": "2.312",
+    "pre_interval": "8.165",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP GetMetadata H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.824315",
+    "duration": "2.215",
+    "pre_interval": "8.732",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H RSSurfaceRenderNode SetIsOnTheTree node name id on tree nodeType H need purgeUnlockedResources this SurfaceNode isn t on the tree Id Name H OnGoBackground name queueId H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP GetMetadata H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.826554",
+    "duration": "0.126",
+    "pre_interval": "0.024",
+    "trace_sequence": "H ReleaseNodeMemory",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.826682",
+    "duration": "0.001",
+    "pre_interval": "0.002",
+    "trace_sequence": "H ReleaseNodeMemory",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.846521",
+    "duration": "2.363",
+    "pre_interval": "19.838",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP GetMetadata H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.848896",
+    "duration": "0.025",
+    "pre_interval": "0.012",
+    "trace_sequence": "H ReleaseNodeMemory",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.848923",
+    "duration": "0.001",
+    "pre_interval": "0.002",
+    "trace_sequence": "H ReleaseNodeMemory",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.857560",
+    "duration": "2.533",
+    "pre_interval": "8.636",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H RSSurfaceRenderNode SetIsOnTheTree node name id on tree nodeType H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H RSSurfaceRenderNode NotifyUIBufferAvailable id bufferAvailable waitUifirst H NotifyUIBufferAvailable done. id H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP GetMetadata H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.935435",
+    "duration": "2.568",
+    "pre_interval": "75.342",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP GetMetadata H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.946215",
+    "duration": "2.498",
+    "pre_interval": "8.212",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H RSSurfaceRenderNode SetIsOnTheTree node name id on tree nodeType H need purgeUnlockedResources this SurfaceNode isn t on the tree Id Name H OnGoBackground name queueId H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP GetMetadata H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.948736",
+    "duration": "0.155",
+    "pre_interval": "0.023",
+    "trace_sequence": "H ReleaseNodeMemory",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.948892",
+    "duration": "0.001",
+    "pre_interval": "0.001",
+    "trace_sequence": "H ReleaseNodeMemory",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.957270",
+    "duration": "2.125",
+    "pre_interval": "8.377",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP GetMetadata H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1457",
+    "start_time": "3432.968375",
+    "duration": "2.293",
+    "pre_interval": "8.980",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP GetMetadata H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.779316",
+    "duration": "0.253",
+    "pre_interval": "0.000",
+    "trace_sequence": "H InsertText length",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.782939",
+    "duration": "3.264",
+    "pre_interval": "3.370",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H OnVsyncCallback H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H handle set task min util tid is uclamp is H VSyncReceiver period timeStamp isThreadShared H OnVsyncEvent now H UIVsyncTask timestamp vsyncID instanceID H VSyncReceiver period timeStamp isThreadShared H DispatchDisplaySync H VSyncReceiver period timeStamp isThreadShared H FlushAnimation H VSyncReceiver period timeStamp isThreadShared H VSyncReceiver period timeStamp isThreadShared H RunningCustomAnimation num time H FlushDirtyNodeUpdate H UITaskScheduler FlushTask H FlushLayoutTask H submit H submit H FFBKdep H CreateTaskMeasure self parent layoutConstraint minSize x maxSize x percentReference x parentIdealSize x selfIdealSize NA x H SkipMeasure Row self H SkipMeasure Image self H SkipMeasure Image self H TextLayoutAlgorithm MeasureContent id H TextLayoutAlgorithm MeasureContent id H SkipMeasure Image self H SkipMeasure Image self H SkipMeasure Button self H CreateTaskLayout self parent H ExpandSafeArea node count IsSafeAreaValid ignoreSafeArea isFullScreen isNeedAvoidWindow H ExecuteJS H FlushRenderTask H FrameNode TextInput id RenderTask H FrameNode Text id RenderTask H UITaskScheduler FlushLatestFrameLayoutFinishTask H FlushNodeChangeFlag H RSModifierManager Draw num H RSModifier Draw H RSModifier Draw H RSModifier Draw H Text id paint offset H RSModifier Draw H FlushMessages H SendCommands H MarshRSTransactionData cmdCount transactionFlag H FlushFocus H HandleOnAreaChangeEvent H HandleVisibleAreaChangeEvent H UITaskScheduler FlushAfterRenderTask H ArkUIPerfMonitor state mgmt layout render property total framework display sync rate H OnIdle targettime H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.794053",
+    "duration": "4.814",
+    "pre_interval": "7.850",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H OnVsyncCallback H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H VSyncReceiver period timeStamp isThreadShared H OnVsyncEvent now H UIVsyncTask timestamp vsyncID instanceID H VSyncReceiver period timeStamp isThreadShared H DispatchDisplaySync H VSyncReceiver period timeStamp isThreadShared H FlushAnimation H VSyncReceiver period timeStamp isThreadShared H VSyncReceiver period timeStamp isThreadShared H RunningCustomAnimation num time H FlushDirtyNodeUpdate H CustomNodeUpdate LoginVerifyPwdView H JSView ExecuteRerender H CustomNodeUpdate PwdTextInput H JSView ExecuteRerender H SourceTextModule Evaluate H CustomNodeUpdate TrackComponentForClick H JSView ExecuteRerender H SourceTextModule Evaluate H UITaskScheduler FlushTask H FlushLayoutTask H submit H submit H FFBKdep H CreateTaskMeasure self parent layoutConstraint minSize x maxSize x percentReference x parentIdealSize x selfIdealSize NA x H SkipMeasure Row self H SkipMeasure Image self H SkipMeasure Image self H TextLayoutAlgorithm MeasureContent id H TextLayoutAlgorithm MeasureContent id H SkipMeasure Image self H SkipMeasure Image self H SkipMeasure Button self H CreateTaskLayout self parent H ExpandSafeArea node count IsSafeAreaValid ignoreSafeArea isFullScreen isNeedAvoidWindow H FlushRenderTask H FrameNode TextInput id RenderTask H FrameNode Text id RenderTask H UITaskScheduler FlushLatestFrameLayoutFinishTask H FlushNodeChangeFlag H RSModifierManager Draw num H RSModifier Draw H RSModifier Draw H RSModifier Draw H Text id paint offset H RSModifier Draw H FlushMessages H SendCommands H MarshRSTransactionData cmdCount transactionFlag H FlushFocus H HandleOnAreaChangeEvent H HandleVisibleAreaChangeEvent H UITaskScheduler FlushAfterRenderTask H ArkUIPerfMonitor state mgmt layout render property total framework display sync rate H OnIdle targettime H FrameS EndFrameFreq rtg ret",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.805102",
+    "duration": "2.924",
+    "pre_interval": "6.235",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H OnVsyncCallback H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H VSyncReceiver period timeStamp isThreadShared H OnVsyncEvent now H UIVsyncTask timestamp vsyncID instanceID H VSyncReceiver period timeStamp isThreadShared H DispatchDisplaySync H VSyncReceiver period timeStamp isThreadShared H FlushAnimation H VSyncReceiver period timeStamp isThreadShared H VSyncReceiver period timeStamp isThreadShared H RunningCustomAnimation num time H FlushDirtyNodeUpdate H UITaskScheduler FlushTask H FlushLayoutTask H submit H submit H FFBKdep H CreateTaskMeasure self parent layoutConstraint minSize x maxSize x percentReference x parentIdealSize x selfIdealSize NA x H SkipMeasure Row self H SkipMeasure Image self H TextLayoutAlgorithm MeasureContent id H TextLayoutAlgorithm MeasureContent id H SkipMeasure Image self H SkipMeasure Button self H CreateTaskLayout self parent H ExpandSafeArea node count IsSafeAreaValid ignoreSafeArea isFullScreen isNeedAvoidWindow H FlushRenderTask H FrameNode TextInput id RenderTask H FrameNode Image id RenderTask H FrameNode Text id RenderTask H UITaskScheduler FlushLatestFrameLayoutFinishTask H FlushNodeChangeFlag H RSModifierManager Draw num H RSModifier Draw H RSModifier Draw H RSModifier Draw H Text id paint offset H RSModifier Draw H FlushMessages H SendCommands H MarshRSTransactionData cmdCount transactionFlag H FlushFocus H HandleOnAreaChangeEvent H HandleVisibleAreaChangeEvent H UITaskScheduler FlushAfterRenderTask H ArkUIPerfMonitor state mgmt layout render property total framework display sync rate H OnIdle targettime H FrameS EndFrameFreq rtg ret",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.816072",
+    "duration": "0.334",
+    "pre_interval": "8.046",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H OnVsyncCallback H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H VSyncReceiver period timeStamp isThreadShared H OnVsyncEvent now H UIVsyncTask timestamp vsyncID instanceID H VSyncReceiver period timeStamp isThreadShared H DispatchDisplaySync H VSyncReceiver period timeStamp isThreadShared H FlushAnimation H VSyncReceiver period timeStamp isThreadShared H VSyncReceiver period timeStamp isThreadShared H RunningCustomAnimation num time H FlushDirtyNodeUpdate H UITaskScheduler FlushTask H FlushLayoutTask H UITaskScheduler FlushLatestFrameLayoutFinishTask H FlushNodeChangeFlag H FlushMessages H SendCommands H FlushFocus H UITaskScheduler FlushAfterRenderTask H ArkUIPerfMonitor state mgmt layout render property total framework display sync rate H OnIdle targettime H FrameS EndFrameFreq rtg ret",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.831514",
+    "duration": "0.001",
+    "pre_interval": "15.108",
+    "trace_sequence": "H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.835636",
+    "duration": "0.002",
+    "pre_interval": "4.121",
+    "trace_sequence": "H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.846721",
+    "duration": "0.002",
+    "pre_interval": "11.083",
+    "trace_sequence": "H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.857814",
+    "duration": "0.002",
+    "pre_interval": "11.091",
+    "trace_sequence": "H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.931463",
+    "duration": "0.227",
+    "pre_interval": "73.647",
+    "trace_sequence": "H InsertText length",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.938346",
+    "duration": "2.443",
+    "pre_interval": "6.656",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H OnVsyncCallback H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H handle set task min util tid is uclamp is H VSyncReceiver period timeStamp isThreadShared H OnVsyncEvent now H UIVsyncTask timestamp vsyncID instanceID H VSyncReceiver period timeStamp isThreadShared H DispatchDisplaySync H VSyncReceiver period timeStamp isThreadShared H FlushAnimation H VSyncReceiver period timeStamp isThreadShared H VSyncReceiver period timeStamp isThreadShared H RunningCustomAnimation num time H FlushDirtyNodeUpdate H UITaskScheduler FlushTask H FlushLayoutTask H submit H submit H FFBKdep H CreateTaskMeasure self parent layoutConstraint minSize x maxSize x percentReference x parentIdealSize x selfIdealSize NA x H SkipMeasure Row self H SkipMeasure Image self H SkipMeasure Image self H TextLayoutAlgorithm MeasureContent id H TextLayoutAlgorithm MeasureContent id H SkipMeasure Image self H SkipMeasure Image self H SkipMeasure Button self H CreateTaskLayout self parent H ExpandSafeArea node count IsSafeAreaValid ignoreSafeArea isFullScreen isNeedAvoidWindow H ExecuteJS H FlushRenderTask H FrameNode TextInput id RenderTask H FrameNode Text id RenderTask H UITaskScheduler FlushLatestFrameLayoutFinishTask H FlushNodeChangeFlag H RSModifierManager Draw num H RSModifier Draw H RSModifier Draw H RSModifier Draw H Text id paint offset H RSModifier Draw H FlushMessages H SendCommands H MarshRSTransactionData cmdCount transactionFlag H FlushFocus H HandleOnAreaChangeEvent H HandleVisibleAreaChangeEvent H UITaskScheduler FlushAfterRenderTask H ArkUIPerfMonitor state mgmt layout render property total framework display sync rate H OnIdle targettime H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.949076",
+    "duration": "4.667",
+    "pre_interval": "8.287",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H OnVsyncCallback H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H VSyncReceiver period timeStamp isThreadShared H OnVsyncEvent now H UIVsyncTask timestamp vsyncID instanceID H VSyncReceiver period timeStamp isThreadShared H DispatchDisplaySync H VSyncReceiver period timeStamp isThreadShared H FlushAnimation H VSyncReceiver period timeStamp isThreadShared H VSyncReceiver period timeStamp isThreadShared H RunningCustomAnimation num time H FlushDirtyNodeUpdate H CustomNodeUpdate LoginVerifyPwdView H JSView ExecuteRerender H CustomNodeUpdate PwdTextInput H JSView ExecuteRerender H SourceTextModule Evaluate H CustomNodeUpdate TrackComponentForClick H JSView ExecuteRerender H SourceTextModule Evaluate H UITaskScheduler FlushTask H FlushLayoutTask H submit H submit H FFBKdep H CreateTaskMeasure self parent layoutConstraint minSize x maxSize x percentReference x parentIdealSize x selfIdealSize NA x H SkipMeasure Row self H SkipMeasure Image self H SkipMeasure Image self H TextLayoutAlgorithm MeasureContent id H TextLayoutAlgorithm MeasureContent id H SkipMeasure Image self H SkipMeasure Image self H SkipMeasure Button self H CreateTaskLayout self parent H ExpandSafeArea node count IsSafeAreaValid ignoreSafeArea isFullScreen isNeedAvoidWindow H FlushRenderTask H FrameNode TextInput id RenderTask H FrameNode Text id RenderTask H UITaskScheduler FlushLatestFrameLayoutFinishTask H FlushNodeChangeFlag H RSModifierManager Draw num H RSModifier Draw H RSModifier Draw H RSModifier Draw H Text id paint offset H RSModifier Draw H FlushMessages H SendCommands H MarshRSTransactionData cmdCount transactionFlag H FlushFocus H HandleOnAreaChangeEvent H HandleVisibleAreaChangeEvent H UITaskScheduler FlushAfterRenderTask H ArkUIPerfMonitor state mgmt layout render property total framework display sync rate H OnIdle targettime H FrameS EndFrameFreq rtg ret",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.960069",
+    "duration": "2.665",
+    "pre_interval": "6.326",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H OnVsyncCallback H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H VSyncReceiver period timeStamp isThreadShared H OnVsyncEvent now H UIVsyncTask timestamp vsyncID instanceID H VSyncReceiver period timeStamp isThreadShared H DispatchDisplaySync H VSyncReceiver period timeStamp isThreadShared H FlushAnimation H VSyncReceiver period timeStamp isThreadShared H VSyncReceiver period timeStamp isThreadShared H RunningCustomAnimation num time H FlushDirtyNodeUpdate H UITaskScheduler FlushTask H FlushLayoutTask H submit H submit H FFBKdep H CreateTaskMeasure self parent layoutConstraint minSize x maxSize x percentReference x parentIdealSize x selfIdealSize NA x H SkipMeasure Row self H SkipMeasure Image self H TextLayoutAlgorithm MeasureContent id H TextLayoutAlgorithm MeasureContent id H SkipMeasure Image self H SkipMeasure Button self H CreateTaskLayout self parent H ExpandSafeArea node count IsSafeAreaValid ignoreSafeArea isFullScreen isNeedAvoidWindow H FlushRenderTask H FrameNode TextInput id RenderTask H FrameNode Image id RenderTask H FrameNode Text id RenderTask H UITaskScheduler FlushLatestFrameLayoutFinishTask H FlushNodeChangeFlag H RSModifierManager Draw num H RSModifier Draw H RSModifier Draw H RSModifier Draw H Text id paint offset H RSModifier Draw H FlushMessages H SendCommands H MarshRSTransactionData cmdCount transactionFlag H FlushFocus H HandleOnAreaChangeEvent H HandleVisibleAreaChangeEvent H UITaskScheduler FlushAfterRenderTask H ArkUIPerfMonitor state mgmt layout render property total framework display sync rate H OnIdle targettime H FrameS EndFrameFreq rtg ret",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.971278",
+    "duration": "0.460",
+    "pre_interval": "8.544",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H OnVsyncCallback H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H VSyncReceiver period timeStamp isThreadShared H OnVsyncEvent now H UIVsyncTask timestamp vsyncID instanceID H VSyncReceiver period timeStamp isThreadShared H DispatchDisplaySync H VSyncReceiver period timeStamp isThreadShared H FlushAnimation H VSyncReceiver period timeStamp isThreadShared H VSyncReceiver period timeStamp isThreadShared H RunningCustomAnimation num time H FlushDirtyNodeUpdate H UITaskScheduler FlushTask H FlushLayoutTask H UITaskScheduler FlushLatestFrameLayoutFinishTask H FlushNodeChangeFlag H FlushMessages H SendCommands H FlushFocus H UITaskScheduler FlushAfterRenderTask H ArkUIPerfMonitor state mgmt layout render property total framework display sync rate H OnIdle targettime H FrameS EndFrameFreq rtg ret",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.982968",
+    "duration": "0.002",
+    "pre_interval": "11.230",
+    "trace_sequence": "H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3432.990125",
+    "duration": "0.004",
+    "pre_interval": "7.155",
+    "trace_sequence": "H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3433.001876",
+    "duration": "0.005",
+    "pre_interval": "11.747",
+    "trace_sequence": "H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "28452",
+    "start_time": "3433.013085",
+    "duration": "0.005",
+    "pre_interval": "11.204",
+    "trace_sequence": "H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_simple_touch_13_3432.709329"
+  }
+]

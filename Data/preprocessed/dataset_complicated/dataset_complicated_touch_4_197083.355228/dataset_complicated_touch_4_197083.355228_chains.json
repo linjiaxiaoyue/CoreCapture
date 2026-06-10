@@ -1,0 +1,1012 @@
+[
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.356409",
+    "duration": "3.119",
+    "pre_interval": "0.000",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.364050",
+    "duration": "3.350",
+    "pre_interval": "4.522",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.372400",
+    "duration": "2.949",
+    "pre_interval": "5.000",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.380785",
+    "duration": "3.867",
+    "pre_interval": "5.436",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H acquire buffer sequence desiredPresentTimestamp isAotuTimestamp H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name oh flutter FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.389139",
+    "duration": "3.145",
+    "pre_interval": "4.487",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.397784",
+    "duration": "3.313",
+    "pre_interval": "5.500",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.405975",
+    "duration": "2.772",
+    "pre_interval": "4.878",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.414010",
+    "duration": "3.283",
+    "pre_interval": "5.263",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.422561",
+    "duration": "5.755",
+    "pre_interval": "5.268",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H acquire buffer sequence desiredPresentTimestamp isAotuTimestamp H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name oh flutter FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.428444",
+    "duration": "0.001",
+    "pre_interval": "0.128",
+    "trace_sequence": "H RSMainThread SendCommand to pid cmdIndex cmdCount",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.430767",
+    "duration": "6.859",
+    "pre_interval": "2.322",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.438975",
+    "duration": "4.708",
+    "pre_interval": "1.349",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.447749",
+    "duration": "5.995",
+    "pre_interval": "4.066",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H acquire buffer sequence desiredPresentTimestamp isAotuTimestamp H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name oh flutter FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.453856",
+    "duration": "0.001",
+    "pre_interval": "0.112",
+    "trace_sequence": "H RSMainThread SendCommand to pid cmdIndex cmdCount",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.456173",
+    "duration": "5.319",
+    "pre_interval": "2.316",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.461644",
+    "duration": "0.001",
+    "pre_interval": "0.152",
+    "trace_sequence": "H RSMainThread SendCommand to pid cmdIndex cmdCount",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.464447",
+    "duration": "5.720",
+    "pre_interval": "2.802",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.470289",
+    "duration": "0.001",
+    "pre_interval": "0.122",
+    "trace_sequence": "H RSMainThread SendCommand to pid cmdIndex cmdCount",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.472456",
+    "duration": "4.408",
+    "pre_interval": "2.166",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.480687",
+    "duration": "2.845",
+    "pre_interval": "3.823",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.488941",
+    "duration": "4.041",
+    "pre_interval": "5.409",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.497326",
+    "duration": "3.827",
+    "pre_interval": "4.344",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.505698",
+    "duration": "4.674",
+    "pre_interval": "4.545",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H RSRenderNodeDrawable Ptr RSSurfaceRenderNodeDrawable OnGenerate H RSSurfaceRenderNode SetIsOnTheTree node name WindowScene id on tree nodeType H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.510477",
+    "duration": "0.001",
+    "pre_interval": "0.105",
+    "trace_sequence": "H RSMainThread SendCommand to pid cmdIndex cmdCount",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.510492",
+    "duration": "0.129",
+    "pre_interval": "0.014",
+    "trace_sequence": "H ReleaseNodeMemory",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.510622",
+    "duration": "0.001",
+    "pre_interval": "0.001",
+    "trace_sequence": "H ReleaseNodeMemory",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.514200",
+    "duration": "5.088",
+    "pre_interval": "3.577",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.522285",
+    "duration": "5.869",
+    "pre_interval": "2.997",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.530397",
+    "duration": "5.297",
+    "pre_interval": "2.243",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.538771",
+    "duration": "7.690",
+    "pre_interval": "3.077",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.547296",
+    "duration": "6.875",
+    "pre_interval": "0.835",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.555577",
+    "duration": "5.086",
+    "pre_interval": "1.406",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.563654",
+    "duration": "5.174",
+    "pre_interval": "2.991",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.571935",
+    "duration": "6.148",
+    "pre_interval": "3.107",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H acquire buffer sequence desiredPresentTimestamp isAotuTimestamp H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name oh flutter FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.584167",
+    "duration": "5.384",
+    "pre_interval": "6.084",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.592453",
+    "duration": "7.194",
+    "pre_interval": "2.902",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.600307",
+    "duration": "7.313",
+    "pre_interval": "0.660",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.607692",
+    "duration": "6.779",
+    "pre_interval": "0.072",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.614550",
+    "duration": "6.069",
+    "pre_interval": "0.079",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.620659",
+    "duration": "5.601",
+    "pre_interval": "0.040",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.626297",
+    "duration": "8.240",
+    "pre_interval": "0.037",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.634582",
+    "duration": "8.653",
+    "pre_interval": "0.045",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.643277",
+    "duration": "7.769",
+    "pre_interval": "0.042",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H acquire buffer sequence desiredPresentTimestamp isAotuTimestamp H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name oh flutter FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.651322",
+    "duration": "8.908",
+    "pre_interval": "0.276",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.660281",
+    "duration": "7.691",
+    "pre_interval": "0.051",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.668071",
+    "duration": "0.001",
+    "pre_interval": "0.099",
+    "trace_sequence": "H RSMainThread SendCommand to pid cmdIndex cmdCount",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.668106",
+    "duration": "8.739",
+    "pre_interval": "0.034",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.676949",
+    "duration": "0.001",
+    "pre_interval": "0.104",
+    "trace_sequence": "H RSMainThread SendCommand to pid cmdIndex cmdCount",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.676985",
+    "duration": "7.694",
+    "pre_interval": "0.035",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.684719",
+    "duration": "7.165",
+    "pre_interval": "0.040",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.691924",
+    "duration": "9.499",
+    "pre_interval": "0.040",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.701464",
+    "duration": "7.429",
+    "pre_interval": "0.041",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.708934",
+    "duration": "9.405",
+    "pre_interval": "0.041",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.718393",
+    "duration": "8.509",
+    "pre_interval": "0.054",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.726955",
+    "duration": "7.141",
+    "pre_interval": "0.053",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.734142",
+    "duration": "8.263",
+    "pre_interval": "0.046",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H acquire buffer sequence desiredPresentTimestamp isAotuTimestamp H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name oh flutter FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.742446",
+    "duration": "10.343",
+    "pre_interval": "0.041",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.752833",
+    "duration": "6.070",
+    "pre_interval": "0.044",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.758975",
+    "duration": "7.986",
+    "pre_interval": "0.072",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H acquire buffer sequence desiredPresentTimestamp isAotuTimestamp H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name oh flutter FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.767002",
+    "duration": "9.313",
+    "pre_interval": "0.041",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.776441",
+    "duration": "0.001",
+    "pre_interval": "0.126",
+    "trace_sequence": "H RSMainThread SendCommand to pid cmdIndex cmdCount",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.776482",
+    "duration": "8.569",
+    "pre_interval": "0.040",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H nID nType support canvasNodeNum mainwindowNum H uifirst node support canvasNodeNum mainwindowNum startingWindow H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.785181",
+    "duration": "0.002",
+    "pre_interval": "0.130",
+    "trace_sequence": "H RSMainThread SendCommand to pid cmdIndex cmdCount",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.785234",
+    "duration": "9.490",
+    "pre_interval": "0.051",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.794844",
+    "duration": "0.002",
+    "pre_interval": "0.120",
+    "trace_sequence": "H RSMainThread SendCommand to pid cmdIndex cmdCount",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.794891",
+    "duration": "6.505",
+    "pre_interval": "0.045",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.801436",
+    "duration": "5.614",
+    "pre_interval": "0.040",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.807089",
+    "duration": "9.524",
+    "pre_interval": "0.039",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.816654",
+    "duration": "7.651",
+    "pre_interval": "0.041",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H RSSurfaceRenderNode SetIsOnTheTree node name WindowScene id on tree nodeType H DisableUifirstNode H need purgeUnlockedResources this SurfaceNode isn t on the tree Id Name WindowScene H RSSurfaceRenderNode SetIsOnTheTree node name WindowScene id on tree nodeType H DisableUifirstNode H need purgeUnlockedResources this SurfaceNode isn t on the tree Id Name WindowScene H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.824318",
+    "duration": "0.001",
+    "pre_interval": "0.013",
+    "trace_sequence": "H CleanVirtualScreens",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.824363",
+    "duration": "7.898",
+    "pre_interval": "0.044",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.832275",
+    "duration": "0.057",
+    "pre_interval": "0.014",
+    "trace_sequence": "H CleanRenderNodes",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.832374",
+    "duration": "7.972",
+    "pre_interval": "0.042",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.840366",
+    "duration": "0.017",
+    "pre_interval": "0.020",
+    "trace_sequence": "H ClearTransactionDataPidInfo",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.840440",
+    "duration": "10.182",
+    "pre_interval": "0.057",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H acquire buffer sequence desiredPresentTimestamp isAotuTimestamp H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name oh flutter FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.850640",
+    "duration": "0.019",
+    "pre_interval": "0.018",
+    "trace_sequence": "H UnRegisterCallback",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197083.850706",
+    "duration": "7.390",
+    "pre_interval": "0.047",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H RSMainThread ProcessCommandUni H Animate H VSyncReceiver period timeStamp isThreadShared H Animate nodeSize totalAnimationSize is H rs RequestNextVSync H rs RequestNextVSync H IsAnimate hardwareTaskNum NotRenderNum H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H IsLeashWindowCache toSubThread IsScale filter rotate captured H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H IsLeashWindowCache needFilterSCB H PrevalidateHwcNode hwcLayer uifirstLayer H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H RSFilterDrawable MarkNeedClearFilterCache nodeId forceUseCache forceClearCache hashChanged regionChanged belowDirty lastCacheType cacheUpdateInterval canSkip isLargeArea filterType pendingPurge forceClearCacheWithLastFrame rotationChanged H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.368656",
+    "duration": "0.010",
+    "pre_interval": "0.000",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.392723",
+    "duration": "0.009",
+    "pre_interval": "24.057",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.409964",
+    "duration": "0.008",
+    "pre_interval": "17.232",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.436256",
+    "duration": "0.008",
+    "pre_interval": "26.284",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.447543",
+    "duration": "0.011",
+    "pre_interval": "11.279",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.475280",
+    "duration": "0.008",
+    "pre_interval": "27.726",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.501898",
+    "duration": "0.008",
+    "pre_interval": "26.610",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.508333",
+    "duration": "0.008",
+    "pre_interval": "6.427",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.528694",
+    "duration": "0.009",
+    "pre_interval": "20.353",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.552490",
+    "duration": "0.010",
+    "pre_interval": "23.787",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.584669",
+    "duration": "0.012",
+    "pre_interval": "32.169",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.592612",
+    "duration": "0.011",
+    "pre_interval": "7.931",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.615132",
+    "duration": "0.016",
+    "pre_interval": "22.509",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.627133",
+    "duration": "0.008",
+    "pre_interval": "11.985",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.648557",
+    "duration": "0.011",
+    "pre_interval": "21.416",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.667439",
+    "duration": "0.007",
+    "pre_interval": "18.871",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.692941",
+    "duration": "0.008",
+    "pre_interval": "25.495",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.707859",
+    "duration": "0.009",
+    "pre_interval": "14.910",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.729243",
+    "duration": "0.009",
+    "pre_interval": "21.375",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.746673",
+    "duration": "0.008",
+    "pre_interval": "17.421",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.769072",
+    "duration": "0.009",
+    "pre_interval": "22.391",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.793871",
+    "duration": "0.016",
+    "pre_interval": "24.790",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.816128",
+    "duration": "0.008",
+    "pre_interval": "22.241",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197083.827420",
+    "duration": "0.009",
+    "pre_interval": "11.284",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "dataset_complicated_touch_4_197083.355228"
+  }
+]
