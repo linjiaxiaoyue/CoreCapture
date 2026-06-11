@@ -27,7 +27,7 @@ To run CoreCapture, using systrace data as an example, the following data prepar
 
 - **1: Raw systrace files**: The original systrace logs to be parsed, stored in `Data/dataset/`.
 - **2: Preprocessed JSON data**: Run `preprocess.py` to parse raw systrace files. The results are saved in `Data/preprocessed/`, where each JSON file represents one event and contains several parsed traces.
-- **3: Train/test split**: Manually split the preprocessed JSON files into training and test sets, and place them in `Data/processed/train` or `Data/processed/test` for subsequent training and testing.
+- **3: Train/test split**: Manually split the preprocessed JSON files into training and test sets, and place them in `Data/preprocessed/train` or `Data/preprocessed/test` for subsequent training and testing.
 
 ## Train and Test
 
