@@ -1,41 +1,52 @@
 # CoreCapture
 
 ## Project Structure
-```
+
+```text
 CoreCapture
 ├─ Code
 │  ├─ fasttext_model      # Directory for fastText pre-trained models
 │  ├─ model_checkpoints   # Directory for storing model
-│  ├─ data_processed.py   
+│  ├─ preprocess.py   
 │  ├─ get_vector.py       
-│  ├─ test_anomaly_window.py  
+│  ├─ test_anomaly_event.py  
 │  ├─ test.py             
 │  └─ train.py         
 └─ Data
    ├─ dataset            # Directory for raw data files
    ├─ preprocessed       # Directory for intermediate preprocessed data
+   │   ├─ test
+   │   └─ train
    ├─ processed          # Directory for final processed data ready for training
    └─ template           # Directory for Drain template
 ```
 
-## How To Use
-### For Raw Systrace Data Preprocess, run:
-```shell
-python data_processed.py
-```
+## Data Preparation
 
-### For Model Training, run:
+To run CoreCapture, using systrace data as an example, the following data preparation steps are required:
+
+- **1: Raw systrace files**: The original systrace logs to be parsed, stored in `Data/dataset/`.
+- **2: Preprocessed JSON data**: Run `preprocess.py` to parse raw systrace files. The results are saved in `Data/preprocessed/`, where each JSON file represents one event and contains several parsed traces.
+- **3: Train/test split**: Manually split the preprocessed JSON files into training and test sets, and place them in `Data/processed/train` or `Data/processed/test` for subsequent training and testing.
+
+## Train and Test
+
+### For Train, run:
+
 ```shell
 python get_vector.py
 python train.py
 ```
 
-### For Model Test, run:
+### For Test, run:
+
 ```shell
+python get_vector.py
 python test.py
 ```
 
-### For Systraces Event-Level AD, run:
+### For Event-Level AD, run:
+
 ```shell
-python test_anomaly_window.py
+python test_anomaly_event.py
 ```

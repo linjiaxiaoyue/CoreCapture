@@ -5,10 +5,11 @@ import numpy as np
 from gensim.models import FastText
 
 
-SOURCE_ROOT_DIR = "../Data/preprocessed"
+SOURCE_ROOT_DIR = "../Data/preprocessed/test"  # ../Data/preprocessed/test
 OUTPUT_ROOT_DIR = "../Data/processed"
 FASTTEXT_MODEL_PATH = "../Code/fasttext_model/fasttext.model"
 VECTOR_DIMENSION = 50
+MODE = 2  # 1--trian，2--test
 
 def get_sentence_vector_gensim(sentence, model, vector_size):
     if pd.isna(sentence) or sentence.strip() == "":
@@ -125,16 +126,23 @@ def process_all_json_files(model):
     os.makedirs(OUTPUT_ROOT_DIR, exist_ok=True)
     
     # Save files
-    np.save(os.path.join(OUTPUT_ROOT_DIR, "X.npy"), total_X)
-    np.save(os.path.join(OUTPUT_ROOT_DIR, "y.npy"), total_y)
-    np.save(os.path.join(OUTPUT_ROOT_DIR, "window_names.npy"), total_window_names)
+    if MODE == 1:
+        np.save(os.path.join(OUTPUT_ROOT_DIR, "X_train.npy"), total_X)
+        np.save(os.path.join(OUTPUT_ROOT_DIR, "y_train.npy"), total_y)
+        print(f"\n🎉 All data processing completed!")
+        print(f"X_train.npy shape: {total_X.shape}")
+        print(f"y_train.npy shape: {total_y.shape}")
+        print(f"All files saved to: {OUTPUT_ROOT_DIR}")
+    if MODE == 2:
+        np.save(os.path.join(OUTPUT_ROOT_DIR, "X_test.npy"), total_X)
+        np.save(os.path.join(OUTPUT_ROOT_DIR, "y_test.npy"), total_y)
+        np.save(os.path.join(OUTPUT_ROOT_DIR, "window_names.npy"), total_window_names)
+        print(f"\n All data processing completed!")
+        print(f"X_test.npy shape: {total_X.shape}")
+        print(f"y_test.npy shape: {total_y.shape}")
+        print(f"window_names.npy shape: {total_window_names.shape}")
+        print(f"All files saved to: {OUTPUT_ROOT_DIR}")
     
-    # Print final info
-    print(f"\n🎉 All data processing completed!")
-    print(f"X.npy shape: {total_X.shape}")
-    print(f"y.npy shape: {total_y.shape}")
-    print(f"window_names.npy shape: {total_window_names.shape}")
-    print(f"All files saved to: {OUTPUT_ROOT_DIR}")
 
 def main():
     """

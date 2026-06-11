@@ -1,0 +1,732 @@
+[
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197093.649699",
+    "duration": "8.669",
+    "pre_interval": "0.000",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197093.679924",
+    "duration": "3.480",
+    "pre_interval": "21.556",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197093.704865",
+    "duration": "3.167",
+    "pre_interval": "21.461",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197093.749192",
+    "duration": "5.236",
+    "pre_interval": "41.160",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197093.791742",
+    "duration": "6.797",
+    "pre_interval": "37.314",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197093.832805",
+    "duration": "5.748",
+    "pre_interval": "34.266",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197093.864935",
+    "duration": "7.190",
+    "pre_interval": "26.382",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197093.939255",
+    "duration": "4.150",
+    "pre_interval": "67.130",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197093.963874",
+    "duration": "5.678",
+    "pre_interval": "20.469",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197093.998154",
+    "duration": "4.305",
+    "pre_interval": "28.602",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197094.021792",
+    "duration": "2.731",
+    "pre_interval": "19.333",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197094.079007",
+    "duration": "4.137",
+    "pre_interval": "54.484",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197094.104407",
+    "duration": "5.872",
+    "pre_interval": "21.263",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197094.122730",
+    "duration": "8.167",
+    "pre_interval": "12.451",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197094.147372",
+    "duration": "20.144",
+    "pre_interval": "16.475",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197094.194729",
+    "duration": "6.470",
+    "pre_interval": "27.213",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197094.238227",
+    "duration": "2.746",
+    "pre_interval": "37.028",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197094.279855",
+    "duration": "5.373",
+    "pre_interval": "38.882",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197094.347836",
+    "duration": "3.309",
+    "pre_interval": "62.608",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "render_service",
+    "thread_id": "1458",
+    "start_time": "197094.389941",
+    "duration": "7.244",
+    "pre_interval": "38.796",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H GetUtilFromDelayTime delayTime is util is H handle set task min util tid is uclamp is H RSMainThread DoComposition H AcquireBuffer with PresentTimestamp name oh flutter queueId queueSize H AcquireBuffer name oh flutter queueId H RsDebug surfaceHandler id AcquireBuffer success acquireTimeStamp buffer timestamp seq H RSMainThread ProcessCommandUni H Animate H ProcessHgmFrameRate pendingRefreshRate H RSUniRender QuickPrepareDisplayRenderNode H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H RSUniRender PrepareRootRenderNode node pid subTreeDirty H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name WindowScene FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H UpdateUifirstNodes Id name FLId Ani Support isUiFirstOn H PrevalidateHwcNode hwcLayer uifirstLayer H HDI DISP H HDI DISP H HDR in Unirender brightnessRatio H PostAndWait parallel type H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret H ReleaseResource H ReleaseNodeMemory H HandleDelayDestroyQueue H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.639363",
+    "duration": "0.592",
+    "pre_interval": "0.000",
+    "trace_sequence": "H TouchTest",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.639979",
+    "duration": "0.694",
+    "pre_interval": "0.024",
+    "trace_sequence": "H DispatchTouchEvent id pointX pointY type H flutter Shell OnPlatformViewDispatchPointerDataPacket",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.640836",
+    "duration": "0.024",
+    "pre_interval": "0.163",
+    "trace_sequence": "H submit",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.640940",
+    "duration": "0.014",
+    "pre_interval": "0.080",
+    "trace_sequence": "H submit",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.641078",
+    "duration": "2.841",
+    "pre_interval": "0.124",
+    "trace_sequence": "H DispatchTouchEvent id pointX pointY type H flutter Shell OnPlatformViewDispatchPointerDataPacket",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.643949",
+    "duration": "0.272",
+    "pre_interval": "0.030",
+    "trace_sequence": "H DispatchTouchEvent id pointX pointY type H flutter Shell OnPlatformViewDispatchPointerDataPacket",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.644242",
+    "duration": "0.020",
+    "pre_interval": "0.021",
+    "trace_sequence": "H submit",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.644681",
+    "duration": "0.008",
+    "pre_interval": "0.419",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.650368",
+    "duration": "3.232",
+    "pre_interval": "5.679",
+    "trace_sequence": "H ReceiveVsync dataCount now expectedEnd vsyncId fd H OnVsyncCallback H GetMarginFromHistory avgFrameTime is margin is is is H FrameS BeginScene rtg ret H handle set task min util tid is uclamp is H VSyncReceiver period timeStamp isThreadShared H OnVsyncEvent now H UIVsyncTask timestamp vsyncID instanceID H VSyncReceiver period timeStamp isThreadShared H DispatchDisplaySync H VSyncReceiver period timeStamp isThreadShared H FlushAnimation H VSyncReceiver period timeStamp isThreadShared H VSyncReceiver period timeStamp isThreadShared H RunningCustomAnimation num time H FlushDirtyNodeUpdate H UITaskScheduler FlushTask H FlushLayoutTask H UITaskScheduler FlushLatestFrameLayoutFinishTask H FlushNodeChangeFlag H FlushMessages H SendCommands H FlushFocus H UITaskScheduler FlushAfterRenderTask H ArkUIPerfMonitor state mgmt layout render property total framework display sync rate H OnIdle targettime H handle set task min util tid is uclamp is H FrameS EndFrameFreq rtg ret",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.664662",
+    "duration": "0.012",
+    "pre_interval": "11.062",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.674812",
+    "duration": "0.011",
+    "pre_interval": "10.138",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.692827",
+    "duration": "0.002",
+    "pre_interval": "18.004",
+    "trace_sequence": "H VSyncReceiver period timeStamp isThreadShared",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.701073",
+    "duration": "0.013",
+    "pre_interval": "8.244",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.712344",
+    "duration": "0.012",
+    "pre_interval": "11.258",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.733345",
+    "duration": "0.014",
+    "pre_interval": "20.989",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.751127",
+    "duration": "0.011",
+    "pre_interval": "17.768",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.772009",
+    "duration": "0.010",
+    "pre_interval": "20.871",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.800644",
+    "duration": "0.010",
+    "pre_interval": "28.625",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.813525",
+    "duration": "0.013",
+    "pre_interval": "12.871",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.830846",
+    "duration": "0.011",
+    "pre_interval": "17.308",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.851749",
+    "duration": "0.011",
+    "pre_interval": "20.892",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.872050",
+    "duration": "0.012",
+    "pre_interval": "20.290",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.891452",
+    "duration": "0.056",
+    "pre_interval": "19.390",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.911513",
+    "duration": "0.011",
+    "pre_interval": "20.005",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.932872",
+    "duration": "0.011",
+    "pre_interval": "21.348",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.951230",
+    "duration": "0.010",
+    "pre_interval": "18.347",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.985782",
+    "duration": "0.012",
+    "pre_interval": "34.542",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197093.994848",
+    "duration": "0.012",
+    "pre_interval": "9.054",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.023009",
+    "duration": "0.011",
+    "pre_interval": "28.149",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.031212",
+    "duration": "0.012",
+    "pre_interval": "8.192",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.054842",
+    "duration": "0.012",
+    "pre_interval": "23.618",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.073183",
+    "duration": "0.023",
+    "pre_interval": "18.329",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.085443",
+    "duration": "8.246",
+    "pre_interval": "12.237",
+    "trace_sequence": "H ConcurrentMarker Mark H GC MarkRoots",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.102015",
+    "duration": "0.017",
+    "pre_interval": "8.326",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.113772",
+    "duration": "0.011",
+    "pre_interval": "11.740",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.134131",
+    "duration": "0.019",
+    "pre_interval": "20.348",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.150455",
+    "duration": "0.015",
+    "pre_interval": "16.305",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.176504",
+    "duration": "0.020",
+    "pre_interval": "26.034",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.190305",
+    "duration": "0.013",
+    "pre_interval": "13.781",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.211422",
+    "duration": "0.013",
+    "pre_interval": "21.104",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.233858",
+    "duration": "0.020",
+    "pre_interval": "22.423",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.258913",
+    "duration": "0.012",
+    "pre_interval": "25.035",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.279375",
+    "duration": "0.015",
+    "pre_interval": "20.450",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.291202",
+    "duration": "0.016",
+    "pre_interval": "11.812",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.328770",
+    "duration": "0.021",
+    "pre_interval": "37.552",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.340347",
+    "duration": "20.451",
+    "pre_interval": "11.556",
+    "trace_sequence": "H PartialGC H PartialGC Initialize H PartialGC Mark H GC MarkRoots H GC MarkJitCodeMap H PartialGC Sweep H GC ProcessNativeDelete H ProcessNativeDeleteNum H PartialGC Evacuate H GC EvacuateSpace H GC UpdateRoot H GC UpdateWeakReference H ProcessReferencesNum H PartialGC Finish",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.360838",
+    "duration": "0.103",
+    "pre_interval": "0.040",
+    "trace_sequence": "H InvokeNativeFinalizeCallbacks num H onSubmitUV",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.360952",
+    "duration": "0.010",
+    "pre_interval": "0.011",
+    "trace_sequence": "H onSubmitUV",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.362399",
+    "duration": "0.011",
+    "pre_interval": "1.437",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.362480",
+    "duration": "0.031",
+    "pre_interval": "0.070",
+    "trace_sequence": "H RunFinalizeCallbacks",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.362523",
+    "duration": "6.413",
+    "pre_interval": "0.012",
+    "trace_sequence": "H RunNativeCallbacks",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.370033",
+    "duration": "0.012",
+    "pre_interval": "1.097",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  },
+  {
+    "thread_name": "APP1",
+    "thread_id": "11106",
+    "start_time": "197094.401013",
+    "duration": "0.015",
+    "pre_interval": "30.968",
+    "trace_sequence": "H AudioRenderer Enqueue H RendererInClientInner Enqueue",
+    "label": "0",
+    "window_name": "animation_1_24_touch_14_197093.627905"
+  }
+]

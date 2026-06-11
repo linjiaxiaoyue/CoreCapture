@@ -106,7 +106,7 @@ print("\nStarting training...")
 final = model.fit(
     [X_train_emb, X_train_time], y_train_split,
     validation_data=([X_val_emb, X_val_time], y_val),
-    epochs=10,
+    epochs=100,
     batch_size=64,
     class_weight=class_weights_final,
     callbacks=[checkpoint_callback],
