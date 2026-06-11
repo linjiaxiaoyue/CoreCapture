@@ -17,7 +17,7 @@ CoreCapture
    ├─ preprocessed       # Directory for intermediate preprocessed data
    │   ├─ test
    │   └─ train
-   ├─ processed          # Directory for final processed data ready for training
+   ├─ processed          # Directory for intermediate processed data ready for train and test
    └─ template           # Directory for Drain template
 ```
 
